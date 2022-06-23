@@ -75,4 +75,4 @@ xtset fcode year
 regress amount playerage country i.fcode
 
 
-************************  DONE    ******************************
+************************  DONE!    ******************************
