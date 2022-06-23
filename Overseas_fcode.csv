@@ -1,0 +1,282 @@
+Player,Role,Amount,Team,Year,Player Origin,Player Age,Country,y14,y15,y16,y17,y18,y19,y20,y21,y22,fcode
+Aaron Finch,Batsman,40000000,Sunrisers Hyderabad,2014.0,Overseas,28.0,5.0,1,0,0,0,0,0,0,0,0,0
+Aaron Finch,Batsman,32000000,Mumbai Indians,2015.0,Overseas,29.0,5.0,0,1,0,0,0,0,0,0,0,0
+Aaron Finch,Batsman,10000000,Gujarat Lions,2016.0,Overseas,30.0,5.0,0,0,1,0,0,0,0,0,0,0
+Aaron Finch,Batsman,62000000,Kings XI Punjab,2018.0,Overseas,32.0,5.0,0,0,0,0,1,0,0,0,0,0
+Aaron Finch,Batsman,44000000,Royal Challengers Bangalore,2020.0,Overseas,34.0,5.0,0,0,0,0,0,0,1,0,0,0
+Adam Milne,Bowler,7000000,Royal Challengers Bangalore,2015.0,Overseas,23.0,4.0,0,1,0,0,0,0,0,0,0,1
+Adam Milne,Bowler,32000000,Mumbai Indians,2021.0,Overseas,29.0,4.0,0,0,0,0,0,0,0,1,0,1
+Adam Milne,Bowler,19000000,Chennai Super Kings,2022.0,Overseas,30.0,4.0,0,0,0,0,0,0,0,0,1,1
+Adam Zampa,Bowler,3000000,Rising Pune Supergiant,2016.0,Overseas,24.0,5.0,0,0,1,0,0,0,0,0,0,2
+Aiden Blizzard,Batsman,3000000,Mumbai Indians,2015.0,Overseas,31.0,5.0,0,1,0,0,0,0,0,0,0,3
+Aiden Markram,Batsman,26000000,Sunrisers Hyderabad,2022.0,Overseas,28.0,3.5,0,0,0,0,0,0,0,0,1,4
+Akila Dananjaya,All-Rounder,1500000,Chennai Super Kings,2013.0,Overseas,20.0,2.0,0,0,0,0,0,0,0,0,0,5
+Albie Morkel,All-Rounder,24000000,Royal Challengers Bangalore,2014.0,Overseas,33.0,3.5,1,0,0,0,0,0,0,0,0,6
+Albie Morkel,All-Rounder,3000000,Delhi Daredevils,2015.0,Overseas,34.0,3.5,0,1,0,0,0,0,0,0,0,6
+Alex Carey,Wicket Keeper,24000000,Delhi Capitals,2020.0,Overseas,29.0,5.0,0,0,0,0,0,0,1,0,0,7
+Alex Hales,Batsman,15000000,Kolkata Knight Riders,2022.0,Overseas,33.0,4.5,0,0,0,0,0,0,0,0,1,8
+Alzarri Joseph,Bowler,24000000,Gujarat Titans,2022.0,Overseas,26.0,4.0,0,0,0,0,0,0,0,0,1,9
+Andre Russell,All-Rounder,6000000,Kolkata Knight Riders,2014.0,Overseas,26.0,4.0,1,0,0,0,0,0,0,0,0,10
+Andrew Tye,Bowler,2000000,Chennai Super Kings,2015.0,Overseas,29.0,5.0,0,1,0,0,0,0,0,0,0,11
+Andrew Tye,All-Rounder,5000000,Gujarat Lions,2016.0,Overseas,30.0,5.0,0,0,1,0,0,0,0,0,0,11
+Andrew Tye,Bowler,72000000,Kings XI Punjab,2018.0,Overseas,32.0,5.0,0,0,0,0,1,0,0,0,0,11
+Andrew Tye,Bowler,10000000,Rajasthan Royals,2020.0,Overseas,34.0,5.0,0,0,0,0,0,0,1,0,0,11
+Angelo Mathews,All-Rounder,75000000,Delhi Daredevils,2015.0,Overseas,28.0,2.0,0,1,0,0,0,0,0,0,0,12
+Angelo Mathews,All-Rounder,20000000,Delhi Daredevils,2017.0,Overseas,30.0,2.0,0,0,0,1,0,0,0,0,0,12
+Anrich Nortje,Bowler,2000000,Kolkata Knight Riders,2019.0,Overseas,26.0,3.5,0,0,0,0,0,1,0,0,0,13
+Ashton Turner,All-Rounder,5000000,Rajasthan Royals,2019.0,Indian,26.0,5.0,0,0,0,0,0,1,0,0,0,14
+Ben Cutting,Bowler,8000000,Rajasthan Royals,2014.0,Overseas,27.0,5.0,1,0,0,0,0,0,0,0,0,15
+Ben Cutting,All-Rounder,5000000,Sunrisers Hyderabad,2016.0,Overseas,29.0,5.0,0,0,1,0,0,0,0,0,0,15
+Ben Cutting,All-Rounder,22000000,Mumbai Indians,2018.0,Overseas,31.0,5.0,0,0,0,0,1,0,0,0,0,15
+Ben Cutting,All-Rounder,7500000,Kolkata Knight Riders,2021.0,Overseas,34.0,5.0,0,0,0,0,0,0,0,1,0,15
+Ben Dunk,Wicket Keeper,2000000,Mumbai Indians,2014.0,Overseas,27.0,5.0,1,0,0,0,0,0,0,0,0,16
+Ben Dwarshuis,Bowler,14000000,Kings XI Punjab,2018.0,Overseas,24.0,5.0,0,0,0,0,1,0,0,0,0,17
+Ben Hilfenhaus,Bowler,10000000,Chennai Super Kings,2014.0,Overseas,31.0,5.0,1,0,0,0,0,0,0,0,0,18
+Ben Laughlin,Bowler,1500000,Chennai Super Kings,2013.0,Overseas,31.0,5.0,0,0,0,0,0,0,0,0,0,19
+Ben Laughlin,Bowler,3000000,Sunrisers Hyderabad,2017.0,Overseas,35.0,5.0,0,0,0,1,0,0,0,0,0,19
+Ben Laughlin,Bowler,5000000,Rajasthan Royals,2018.0,Overseas,36.0,5.0,0,0,0,0,1,0,0,0,0,19
+Benny Howell,All-Rounder,4000000,Punjab Kings,2022.0,Overseas,34.0,4.5,0,0,0,0,0,0,0,0,1,20
+Beuran Hendricks,Bowler,18000000,Kings XI Punjab,2014.0,Overseas,24.0,3.5,1,0,0,0,0,0,0,0,0,21
+Bhanuka Rajapaksa,Batsman,5000000,Punjab Kings,2022.0,Overseas,31.0,2.0,0,0,0,0,0,0,0,0,1,22
+Billy Stanlake,Bowler,3000000,Royal Challengers Bangalore,2017.0,Overseas,23.0,5.0,0,0,0,1,0,0,0,0,0,23
+Billy Stanlake,Batsman,5000000,Sunrisers Hyderabad,2018.0,Overseas,24.0,5.0,0,0,0,0,1,0,0,0,0,23
+Brad Hodge,Batsman,24000000,Rajasthan Royals,2014.0,Overseas,40.0,5.0,1,0,0,0,0,0,0,0,0,24
+Brad Hogg,Bowler,5000000,Kolkata Knight Riders,2015.0,Overseas,44.0,5.0,0,1,0,0,0,0,0,0,0,25
+Brendan Taylor,Wicket Keeper,3000000,Sunrisers Hyderabad,2014.0,Overseas,28.0,2.0,1,0,0,0,0,0,0,0,0,26
+Brendon McCullum,Wicket Keeper,32500000,Chennai Super Kings,2014.0,Overseas,33.0,4.0,1,0,0,0,0,0,0,0,0,27
+Brendon McCullum,Batsman,36000000,Royal Challengers Bangalore,2018.0,Overseas,37.0,4.0,0,0,0,0,1,0,0,0,0,27
+Cameron Delport,All-Rounder,3000000,Kolkata Knight Riders,2018.0,Overseas,29.0,3.5,0,0,0,0,1,0,0,0,0,28
+Carlos Brathwaite,All-Rounder,42000000,Delhi Daredevils,2016.0,Overseas,28.0,4.0,0,0,1,0,0,0,0,0,0,29
+Carlos Brathwaite,All-Rounder,20000000,Sunrisers Hyderabad,2018.0,Overseas,30.0,4.0,0,0,0,0,1,0,0,0,0,29
+Carlos Brathwaite,All-Rounder,50000000,Kolkata Knight Riders,2019.0,Overseas,31.0,4.0,0,0,0,0,0,1,0,0,0,29
+Chamika Karunaratne,All-Rounder,5000000,Kolkata Knight Riders,2022.0,Overseas,26.0,2.0,0,0,0,0,0,0,0,0,1,30
+Chirag Suri,Batsman,1000000,Gujarat Lions,2017.0,Indian,22.0,2.0,0,0,0,1,0,0,0,0,0,31
+Chris Green,All-Rounder,2000000,Kolkata Knight Riders,2020.0,Overseas,27.0,5.0,0,0,0,0,0,0,1,0,0,32
+Chris Jordan,All-Rounder,5000000,Sunrisers Hyderabad,2017.0,Overseas,29.0,4.5,0,0,0,1,0,0,0,0,0,33
+Chris Jordan,All-Rounder,10000000,Sunrisers Hyderabad,2018.0,Overseas,30.0,4.5,0,0,0,0,1,0,0,0,0,33
+Chris Jordan,All-Rounder,30000000,Kings XI Punjab,2020.0,Overseas,32.0,4.5,0,0,0,0,0,0,1,0,0,33
+Chris Jordan,All-Rounder,36000000,Chennai Super Kings,2022.0,Overseas,34.0,4.5,0,0,0,0,0,0,0,0,1,33
+Chris Lynn,Batsman,13000000,Kolkata Knight Riders,2014.0,Overseas,24.0,5.0,1,0,0,0,0,0,0,0,0,34
+Chris Lynn,Batsman,96000000,Kolkata Knight Riders,2018.0,Overseas,28.0,5.0,0,0,0,0,1,0,0,0,0,34
+Chris Lynn,Batsman,20000000,Mumbai Indians,2020.0,Overseas,30.0,5.0,0,0,0,0,0,0,1,0,0,34
+Chris Woakes,All-Rounder,42000000,Kolkata Knight Riders,2017.0,Overseas,28.0,4.5,0,0,0,1,0,0,0,0,0,35
+Chris Woakes,All-Rounder,74000000,Royal Challengers Bangalore,2018.0,Overseas,29.0,4.5,0,0,0,0,1,0,0,0,0,35
+Chris Woakes,All-Rounder,15000000,Delhi Capitals,2020.0,Overseas,31.0,4.5,0,0,0,0,0,0,1,0,0,35
+Colin De Grandhomme,All-Rounder,22000000,Royal Challengers Bangalore,2018.0,Overseas,32.0,4.0,0,0,0,0,1,0,0,0,0,36
+Colin Ingram,Batsman,64000000,Delhi Capitals,2019.0,Overseas,34.0,3.5,0,0,0,0,0,1,0,0,0,37
+Colin Munro,All-Rounder,3000000,Kolkata Knight Riders,2016.0,Overseas,29.0,4.0,0,0,1,0,0,0,0,0,0,38
+Colin Munro,All-Rounder,19000000,Delhi Daredevils,2018.0,Overseas,31.0,4.0,0,0,0,0,1,0,0,0,0,38
+Corey Anderson,All-Rounder,45000000,Mumbai Indians,2014.0,Overseas,24.0,4.0,1,0,0,0,0,0,0,0,0,39
+Corey Anderson,All-Rounder,10000000,Delhi Daredevils,2017.0,Overseas,27.0,4.0,0,0,0,1,0,0,0,0,0,39
+Dale Steyn,Bowler,23000000,Gujarat Lions,2016.0,Overseas,33.0,3.5,0,0,1,0,0,0,0,0,0,40
+Dale Steyn,Bowler,20000000,Royal Challengers Bangalore,2020.0,Overseas,37.0,3.5,0,0,0,0,0,0,1,0,0,40
+Daniel Christian,All-Rounder,7500000,Royal Challengers Bangalore,2013.0,Overseas,30.0,5.0,0,0,0,0,0,0,0,0,0,41
+Daniel Christian,All-Rounder,10000000,Rising Pune Supergiant,2017.0,Overseas,34.0,5.0,0,0,0,1,0,0,0,0,0,41
+Daniel Christian,All-Rounder,15000000,Delhi Daredevils,2018.0,Overseas,35.0,5.0,0,0,0,0,1,0,0,0,0,41
+Daniel Sams,All-Rounder,26000000,Mumbai Indians,2022.0,Overseas,30.0,5.0,0,0,0,0,0,0,0,0,1,42
+Darren Bravo,Batsman,5000000,Kolkata Knight Riders,2017.0,Overseas,28.0,4.0,0,0,0,1,0,0,0,0,0,43
+Darren Sammy,All-Rounder,31875000,Sunrisers Hyderabad,2013.0,Overseas,30.0,4.0,0,0,0,0,0,0,0,0,0,44
+Darren Sammy,All-Rounder,35000000,Sunrisers Hyderabad,2014.0,Overseas,31.0,4.0,1,0,0,0,0,0,0,0,0,44
+Darren Sammy,All-Rounder,28000000,Royal Challengers Bangalore,2015.0,Overseas,32.0,4.0,0,1,0,0,0,0,0,0,0,44
+Darren Sammy,All-Rounder,3000000,Kings XI Punjab,2017.0,Overseas,34.0,4.0,0,0,0,1,0,0,0,0,0,44
+Daryl Mitchell,All-Rounder,7500000,Rajasthan Royals,2022.0,Overseas,39.0,4.5,0,0,0,0,0,0,0,0,1,45
+David Miller,Batsman,30000000,Kings XI Punjab,2018.0,Overseas,29.0,3.5,0,0,0,0,1,0,0,0,0,46
+David Miller,Batsman,7500000,Rajasthan Royals,2020.0,Overseas,31.0,3.5,0,0,0,0,0,0,1,0,0,46
+David Miller,Batsman,30000000,Gujarat Titans,2022.0,Overseas,33.0,3.5,0,0,0,0,0,0,0,0,1,46
+David Warner,Batsman,55000000,Sunrisers Hyderabad,2014.0,Overseas,28.0,5.0,1,0,0,0,0,0,0,0,0,47
+David Warner,Batsman,62500000,Delhi Capitals,2022.0,Overseas,36.0,5.0,0,0,0,0,0,0,0,0,1,47
+David Wiese,All-Rounder,28000000,Royal Challengers Bangalore,2015.0,Overseas,30.0,3.5,0,1,0,0,0,0,0,0,0,48
+David Willey,All-Rounder,20000000,Royal Challengers Bangalore,2022.0,Overseas,32.0,4.5,0,0,0,0,0,0,0,0,1,49
+Dawid Malan,All-Rounder,15000000,Punjab Kings,2021.0,Overseas,34.0,4.5,0,0,0,0,0,0,0,1,0,50
+Devon Conway,Batsman,10000000,Chennai Super Kings,2022.0,Overseas,31.0,4.0,0,0,0,0,0,0,0,0,1,51
+Dominic Drakes,All-Rounder,11000000,Gujarat Titans,2022.0,Overseas,24.0,4.0,0,0,0,0,0,0,0,0,1,52
+Dushmanta Chameera,Bowler,20000000,Lucknow Super Giants,2022.0,Overseas,30.0,2.0,0,0,0,0,0,0,0,0,1,53
+Dwaine Pretorius,All-Rounder,5000000,Chennai Super Kings,2022.0,Overseas,33.0,3.5,0,0,0,0,0,0,0,0,1,54
+Dwayne Bravo,All-Rounder,64000000,Chennai Super Kings,2018.0,Overseas,35.0,4.0,0,0,0,0,1,0,0,0,0,55
+Dwayne Bravo,All-Rounder,44000000,Chennai Super Kings,2022.0,Overseas,39.0,4.0,0,0,0,0,0,0,0,0,1,55
+Dwayne Smith,Batsman,45000000,Chennai Super Kings,2014.0,Overseas,31.0,4.0,1,0,0,0,0,0,0,0,0,56
+Dwayne Smith,All-Rounder,23000000,Gujarat Lions,2016.0,Overseas,33.0,4.0,0,0,1,0,0,0,0,0,0,56
+Eoin Morgan,Batsman,15000000,Sunrisers Hyderabad,2015.0,Overseas,29.0,4.5,0,1,0,0,0,0,0,0,0,57
+Eoin Morgan,Batsman,20000000,Kings XI Punjab,2017.0,Overseas,31.0,4.5,0,0,0,1,0,0,0,0,0,57
+Eoin Morgan,Batsman,52500000,Kolkata Knight Riders,2020.0,Overseas,34.0,4.5,0,0,0,0,0,0,1,0,0,57
+Evin Lewis,Batsman,38000000,Mumbai Indians,2018.0,Overseas,27.0,4.0,0,0,0,0,1,0,0,0,0,58
+Evin Lewis,Batsman,20000000,Lucknow Super Giants,2022.0,Overseas,31.0,4.0,0,0,0,0,0,0,0,0,1,58
+Fabian Allen,All-Rounder,5000000,Sunrisers Hyderabad,2020.0,Overseas,25.0,4.0,0,0,0,0,0,0,1,0,0,59
+Fabian Allen,All-Rounder,7500000,Punjab Kings,2021.0,Overseas,26.0,4.0,0,0,0,0,0,0,0,1,0,59
+Fabian Allen,All-Rounder,7500000,Mumbai Indians,2022.0,Overseas,27.0,4.0,0,0,0,0,0,0,0,0,1,59
+Farhaan Behardien,All-Rounder,3000000,Kings XI Punjab,2016.0,Overseas,33.0,3.5,0,0,1,0,0,0,0,0,0,60
+Fazalhaq Farooqi,Bowler,5000000,Sunrisers Hyderabad,2022.0,Overseas,22.0,2.0,0,0,0,0,0,0,0,0,1,61
+Fidel Edwards,Bowler,15750000,Rajasthan Royals,2013.0,Overseas,31.0,4.0,0,0,0,0,0,0,0,0,0,62
+Finn Allen,Batsman,8000000,Royal Challengers Bangalore,2022.0,Overseas,23.0,4.0,0,0,0,0,0,0,0,0,1,63
+George Bailey,Batsman,32500000,Kings XI Punjab,2014.0,Overseas,32.0,5.0,1,0,0,0,0,0,0,0,0,64
+Glenn Maxwell,All-Rounder,75000000,Mumbai Indians,2013.0,Overseas,25.0,5.0,0,0,0,0,0,0,0,0,0,65
+Glenn Maxwell,All-Rounder,60000000,Kings XI Punjab,2014.0,Overseas,26.0,5.0,1,0,0,0,0,0,0,0,0,65
+Glenn Maxwell,All-Rounder,90000000,Delhi Daredevils,2018.0,Overseas,30.0,5.0,0,0,0,0,1,0,0,0,0,65
+Glenn Maxwell,All-Rounder,107500000,Kings XI Punjab,2020.0,Overseas,32.0,5.0,0,0,0,0,0,0,1,0,0,65
+Glenn Maxwell,All-Rounder,142500000,Royal Challengers Bangalore,2021.0,Overseas,33.0,5.0,0,0,0,0,0,0,0,1,0,65
+Glenn Phillips,Wicket Keeper,15000000,Sunrisers Hyderabad,2022.0,Overseas,26.0,4.0,0,0,0,0,0,0,0,0,1,66
+Gurinder Sandhu,Bowler,17000000,Delhi Daredevils,2015.0,Indian,22.0,5.0,0,1,0,0,0,0,0,0,0,67
+Hardus Viljoen,Bowler,7500000,Kings XI Punjab,2019.0,Overseas,30.0,3.5,0,0,0,0,0,1,0,0,0,68
+Harry Gurney,Bowler,7500000,Kolkata Knight Riders,2019.0,Overseas,33.0,4.5,0,0,0,0,0,1,0,0,0,69
+Heinrich Klaasen,Wicket Keeper,5000000,Royal Challengers Bangalore,2019.0,Overseas,28.0,3.5,0,0,0,0,0,1,0,0,0,70
+Imran Tahir,Bowler,10000000,Chennai Super Kings,2018.0,Overseas,39.0,3.5,0,0,0,0,1,0,0,0,0,71
+James Faulkner,All-Rounder,30000000,Rajasthan Royals,2013.0,Overseas,23.0,5.0,0,0,0,0,0,0,0,0,0,72
+James Neesham,All-Rounder,10000000,Delhi Daredevils,2014.0,Overseas,24.0,4.0,1,0,0,0,0,0,0,0,0,73
+James Neesham,All-Rounder,5000000,Kolkata Knight Riders,2015.0,Overseas,25.0,4.0,0,1,0,0,0,0,0,0,0,73
+James Neesham,All-Rounder,5000000,Kings XI Punjab,2020.0,Overseas,30.0,4.0,0,0,0,0,0,0,1,0,0,73
+James Neesham,All-Rounder,5000000,Mumbai Indians,2021.0,Overseas,31.0,4.0,0,0,0,0,0,0,0,1,0,73
+James Neesham,All-Rounder,15000000,Rajasthan Royals,2022.0,Overseas,32.0,4.0,0,0,0,0,0,0,0,0,1,73
+Jason Behrendorff,Bowler,15000000,Mumbai Indians,2018.0,Overseas,28.0,5.0,0,0,0,0,1,0,0,0,0,74
+Jason Behrendorff,Bowler,7500000,Royal Challengers Bangalore,2022.0,Overseas,32.0,5.0,0,0,0,0,0,0,0,0,1,74
+Jason Holder,Bowler,1500000,Chennai Super Kings,2013.0,Overseas,22.0,4.0,0,0,0,0,0,0,0,0,0,75
+Jason Holder,Bowler,7500000,Sunrisers Hyderabad,2014.0,Overseas,23.0,4.0,1,0,0,0,0,0,0,0,0,75
+Jason Holder,All-Rounder,7000000,Kolkata Knight Riders,2016.0,Overseas,25.0,4.0,0,0,1,0,0,0,0,0,0,75
+Jason Holder,All-Rounder,87500000,Lucknow Super Giants,2022.0,Overseas,31.0,4.0,0,0,0,0,0,0,0,0,1,75
+Jason Roy,Batsman,10000000,Gujarat Lions,2017.0,Overseas,27.0,4.5,0,0,0,1,0,0,0,0,0,76
+Jason Roy,Batsman,15000000,Delhi Daredevils,2018.0,Overseas,28.0,4.5,0,0,0,0,1,0,0,0,0,76
+Jason Roy,Batsman,15000000,Delhi Capitals,2020.0,Overseas,30.0,4.5,0,0,0,0,0,0,1,0,0,76
+Jason Roy,Batsman,20000000,Gujarat Titans,2022.0,Overseas,32.0,4.5,0,0,0,0,0,0,0,0,1,76
+Jean-Paul Duminy,Batsman,22000000,Delhi Daredevils,2014.0,Overseas,30.0,3.5,1,0,0,0,0,0,0,0,0,77
+Jean-Paul Duminy,All-Rounder,10000000,Mumbai Indians,2018.0,Overseas,34.0,3.5,0,0,0,0,1,0,0,0,0,77
+Jeevan Mendis,All-Rounder,3750000,Delhi Daredevils,2013.0,Overseas,30.0,2.0,0,0,0,0,0,0,0,0,0,78
+Jesse Ryder,All-Rounder,19500000,Delhi Daredevils,2013.0,Overseas,29.0,4.0,0,0,0,0,0,0,0,0,0,79
+Jhye Richardson,Bowler,140000000,Punjab Kings,2021.0,Overseas,25.0,5.0,0,0,0,0,0,0,0,1,0,80
+Joe Denly,Batsman,10000000,Kolkata Knight Riders,2019.0,Overseas,33.0,4.5,0,0,0,0,0,1,0,0,0,81
+Joel Paris,Bowler,3000000,Delhi Daredevils,2016.0,Overseas,24.0,5.0,0,0,1,0,0,0,0,0,0,82
+Jofra Archer,All-Rounder,72000000,Rajasthan Royals,2018.0,Overseas,23.0,4.5,0,0,0,0,1,0,0,0,0,83
+Jofra Archer,All-Rounder,80000000,Mumbai Indians,2022.0,Overseas,27.0,4.5,0,0,0,0,0,0,0,0,1,83
+Johan Botha,All-Rounder,33750000,Delhi Daredevils,2013.0,Overseas,31.0,3.5,0,0,0,0,0,0,0,0,0,84
+John Hastings,All-Rounder,5000000,Chennai Super Kings,2014.0,Overseas,29.0,5.0,1,0,0,0,0,0,0,0,0,85
+John Hastings,Bowler,13000000,Kolkata Knight Riders,2016.0,Overseas,31.0,5.0,0,0,1,0,0,0,0,0,0,85
+Jonny Bairstow,Wicket Keeper,22000000,Sunrisers Hyderabad,2019.0,Overseas,30.0,4.5,0,0,0,0,0,1,0,0,0,86
+Jonny Bairstow,Wicket Keeper,67500000,Punjab Kings,2022.0,Overseas,33.0,4.5,0,0,0,0,0,0,0,0,1,86
+Jos Buttler,Wicket Keeper,38000000,Mumbai Indians,2016.0,Overseas,26.0,4.5,0,0,1,0,0,0,0,0,0,87
+Jos Buttler,Wicket Keeper,44000000,Rajasthan Royals,2018.0,Overseas,28.0,4.5,0,0,0,0,1,0,0,0,0,87
+Josh Hazlewood,Bowler,5000000,Mumbai Indians,2014.0,Overseas,23.0,5.0,1,0,0,0,0,0,0,0,0,88
+Josh Hazlewood,Bowler,20000000,Chennai Super Kings,2020.0,Overseas,29.0,5.0,0,0,0,0,0,0,1,0,0,88
+Kagiso Rabada,Bowler,50000000,Delhi Daredevils,2017.0,Overseas,22.0,3.5,0,0,0,1,0,0,0,0,0,89
+Kagiso Rabada,Bowler,42000000,Delhi Daredevils,2018.0,Overseas,23.0,3.5,0,0,0,0,1,0,0,0,0,89
+Kagiso Rabada,Bowler,92500000,Punjab Kings,2022.0,Overseas,27.0,3.5,0,0,0,0,0,0,0,0,1,89
+Kane Richardson,Bowler,52500000,Pune Warriors India,2013.0,Overseas,22.0,5.0,0,0,0,0,0,0,0,0,0,90
+Kane Richardson,Bowler,10000000,Rajasthan Royals,2014.0,Overseas,23.0,5.0,1,0,0,0,0,0,0,0,0,90
+Kane Richardson,Bowler,20000000,Royal Challengers Bangalore,2016.0,Overseas,25.0,5.0,0,0,1,0,0,0,0,0,0,90
+Kane Richardson,Bowler,40000000,Royal Challengers Bangalore,2020.0,Overseas,29.0,5.0,0,0,0,0,0,0,1,0,0,90
+Kane Williamson,All-Rounder,6000000,Sunrisers Hyderabad,2015.0,Overseas,25.0,4.0,0,1,0,0,0,0,0,0,0,91
+Kane Williamson,Batsman,30000000,Sunrisers Hyderabad,2018.0,Overseas,28.0,4.0,0,0,0,0,1,0,0,0,0,91
+Keemo Paul,All-Rounder,5000000,Delhi Capitals,2019.0,Overseas,21.0,4.0,0,0,0,0,0,1,0,0,0,92
+Kevin Pietersen,Batsman,90000000,Delhi Daredevils,2014.0,Overseas,34.0,4.5,1,0,0,0,0,0,0,0,0,93
+Kevin Pietersen,Batsman,20000000,Sunrisers Hyderabad,2015.0,Overseas,35.0,4.5,0,1,0,0,0,0,0,0,0,93
+Kevin Pietersen,Batsman,35000000,Rising Pune Supergiant,2016.0,Overseas,36.0,4.5,0,0,1,0,0,0,0,0,0,93
+Kevon Cooper,All-Rounder,3000000,Rajasthan Royals,2014.0,Overseas,25.0,4.0,1,0,0,0,0,0,0,0,0,94
+Kyle Abbott,Bowler,3000000,Chennai Super Kings,2015.0,Overseas,28.0,3.5,0,1,0,0,0,0,0,0,0,95
+Kyle Abbott,Bowler,21000000,Kings XI Punjab,2016.0,Overseas,29.0,3.5,0,0,1,0,0,0,0,0,0,95
+Kyle Jamieson,All-Rounder,150000000,Royal Challengers Bangalore,2021.0,Overseas,27.0,4.0,0,0,0,0,0,0,0,1,0,96
+Liam Livingstone,All-Rounder,5000000,Rajasthan Royals,2019.0,Overseas,26.0,4.5,0,0,0,0,0,1,0,0,0,97
+Liam Livingstone,All-Rounder,7500000,Rajasthan Royals,2021.0,Overseas,28.0,4.5,0,0,0,0,0,0,0,1,0,97
+Liam Livingstone,All-Rounder,115000000,Punjab Kings,2022.0,Overseas,29.0,4.5,0,0,0,0,0,0,0,0,1,97
+Lockie Ferguson,Bowler,5000000,Rising Pune Supergiant,2017.0,Overseas,26.0,4.0,0,0,0,1,0,0,0,0,0,98
+Lockie Ferguson,Bowler,16000000,Kolkata Knight Riders,2019.0,Overseas,28.0,4.0,0,0,0,0,0,1,0,0,0,98
+Marco Jansen,All-Rounder,2000000,Mumbai Indians,2021.0,Overseas,21.0,3.5,0,0,0,0,0,0,0,1,0,99
+Marco Jansen,All-Rounder,42000000,Sunrisers Hyderabad,2022.0,Overseas,22.0,3.5,0,0,0,0,0,0,0,0,1,99
+Marcus Stoinis,All-Rounder,2500000,Delhi Daredevils,2015.0,Overseas,26.0,5.0,0,1,0,0,0,0,0,0,0,100
+Marcus Stoinis,All-Rounder,5500000,Kings XI Punjab,2016.0,Overseas,27.0,5.0,0,0,1,0,0,0,0,0,0,100
+Marcus Stoinis,All-Rounder,62000000,Kings XI Punjab,2018.0,Overseas,29.0,5.0,0,0,0,0,1,0,0,0,0,100
+Marcus Stoinis,All-Rounder,48000000,Delhi Capitals,2020.0,Overseas,31.0,5.0,0,0,0,0,0,0,1,0,0,100
+Mark Wood,Bowler,15000000,Chennai Super Kings,2018.0,Overseas,28.0,4.5,0,0,0,0,1,0,0,0,0,101
+Mark Wood,Bowler,75000000,Lucknow Super Giants,2022.0,Overseas,32.0,4.5,0,0,0,0,0,0,0,0,1,101
+Martin Guptill,Batsman,5000000,Kings XI Punjab,2017.0,Overseas,31.0,4.0,0,0,0,1,0,0,0,0,0,102
+Martin Guptill,Batsman,10000000,Sunrisers Hyderabad,2019.0,Overseas,33.0,4.0,0,0,0,0,0,1,0,0,0,102
+Matt Henry,Bowler,3000000,Chennai Super Kings,2014.0,Overseas,23.0,4.0,1,0,0,0,0,0,0,0,0,103
+Matt Henry,Bowler,5000000,Kings XI Punjab,2017.0,Overseas,26.0,4.0,0,0,0,1,0,0,0,0,0,103
+Matthew Wade,Wicket Keeper,24000000,Gujarat Titans,2022.0,Overseas,35.0,5.0,0,0,0,0,0,0,0,0,1,104
+Mitchell Johnson,All-Rounder,65000000,Kings XI Punjab,2014.0,Overseas,33.0,5.0,1,0,0,0,0,0,0,0,0,105
+Mitchell Johnson,Bowler,20000000,Mumbai Indians,2017.0,Overseas,36.0,5.0,0,0,0,1,0,0,0,0,0,105
+Mitchell Johnson,Bowler,20000000,Kolkata Knight Riders,2018.0,Overseas,37.0,5.0,0,0,0,0,1,0,0,0,0,105
+Mitchell Marsh,All-Rounder,48000000,Rising Pune Supergiant,2016.0,Overseas,25.0,5.0,0,0,1,0,0,0,0,0,0,106
+Mitchell Marsh,All-Rounder,20000000,Sunrisers Hyderabad,2020.0,Overseas,29.0,5.0,0,0,0,0,0,0,1,0,0,106
+Mitchell Marsh,All-Rounder,65000000,Delhi Capitals,2022.0,Overseas,31.0,5.0,0,0,0,0,0,0,0,0,1,106
+Mitchell McClenaghan,Bowler,3000000,Mumbai Indians,2015.0,Overseas,29.0,4.0,0,1,0,0,0,0,0,0,0,107
+Mitchell Santner,All-Rounder,5000000,Chennai Super Kings,2018.0,Overseas,26.0,4.0,0,0,0,0,1,0,0,0,0,108
+Mitchell Santner,All-Rounder,19000000,Chennai Super Kings,2022.0,Overseas,30.0,4.0,0,0,0,0,0,0,0,0,1,108
+Mitchell Starc,Bowler,50000000,Royal Challengers Bangalore,2014.0,Overseas,24.0,5.0,1,0,0,0,0,0,0,0,0,109
+Moeen Ali,All-Rounder,17000000,Royal Challengers Bangalore,2018.0,Overseas,31.0,4.5,0,0,0,0,1,0,0,0,0,110
+Moeen Ali,All-Rounder,70000000,Chennai Super Kings,2021.0,Overseas,34.0,4.5,0,0,0,0,0,0,0,1,0,110
+Mohammad Nabi,All-Rounder,3000000,Sunrisers Hyderabad,2017.0,Overseas,32.0,2.0,0,0,0,1,0,0,0,0,0,111
+Mohammad Nabi,All-Rounder,10000000,Sunrisers Hyderabad,2018.0,Overseas,33.0,2.0,0,0,0,0,1,0,0,0,0,111
+Moises Henriques,All-Rounder,22500000,Royal Challengers Bangalore,2013.0,Overseas,26.0,5.0,0,0,0,0,0,0,0,0,0,112
+Moises Henriques,All-Rounder,10000000,Sunrisers Hyderabad,2014.0,Overseas,27.0,5.0,1,0,0,0,0,0,0,0,0,112
+Moises Henriques,All-Rounder,10000000,Kings XI Punjab,2019.0,Overseas,32.0,5.0,0,0,0,0,0,1,0,0,0,112
+Mustafizur Rahman,Bowler,14000000,Sunrisers Hyderabad,2016.0,Overseas,21.0,2.0,0,0,1,0,0,0,0,0,0,113
+Mustafizur Rahman,Bowler,22000000,Mumbai Indians,2018.0,Overseas,23.0,2.0,0,0,0,0,1,0,0,0,0,113
+Mustafizur Rahman,Bowler,10000000,Rajasthan Royals,2021.0,Overseas,26.0,2.0,0,0,0,0,0,0,0,1,0,113
+Nathan Coulter-Nile,Bowler,33750000,Mumbai Indians,2013.0,Overseas,26.0,5.0,0,0,0,0,0,0,0,0,0,114
+Nathan Coulter-Nile,Bowler,42500000,Delhi Daredevils,2014.0,Overseas,27.0,5.0,1,0,0,0,0,0,0,0,0,114
+Nathan Coulter-Nile,Bowler,35000000,Kolkata Knight Riders,2017.0,Overseas,30.0,5.0,0,0,0,1,0,0,0,0,0,114
+Nathan Coulter-Nile,Bowler,22000000,Royal Challengers Bangalore,2018.0,Overseas,31.0,5.0,0,0,0,0,1,0,0,0,0,114
+Nathan Coulter-Nile,Bowler,80000000,Mumbai Indians,2020.0,Overseas,33.0,5.0,0,0,0,0,0,0,1,0,0,114
+Nathan Coulter-Nile,Bowler,50000000,Mumbai Indians,2021.0,Overseas,34.0,5.0,0,0,0,0,0,0,0,1,0,114
+Nathan Coulter-Nile,Bowler,20000000,Rajasthan Royals,2022.0,Overseas,35.0,5.0,0,0,0,0,0,0,0,0,1,114
+Noor Ahmad,Bowler,3000000,Gujarat Titans,2022.0,Overseas,17.0,2.0,0,0,0,0,0,0,0,0,1,115
+Obed Mccoy,Bowler,7500000,Rajasthan Royals,2022.0,Overseas,25.0,4.0,0,0,0,0,0,0,0,0,1,116
+Odean Smith,All-Rounder,60000000,Punjab Kings,2022.0,Overseas,26.0,4.0,0,0,0,0,0,0,0,0,1,117
+Oshane Thomas,Bowler,11000000,Rajasthan Royals,2019.0,Overseas,22.0,4.0,0,0,0,0,0,1,0,0,0,118
+Oshane Thomas,Bowler,5000000,Rajasthan Royals,2020.0,Overseas,23.0,4.0,0,0,0,0,0,0,1,0,0,118
+Pat Cummins,Bowler,54000000,Mumbai Indians,2018.0,Overseas,25.0,5.0,0,0,0,0,1,0,0,0,0,119
+Pat Cummins,All-Rounder,155000000,Kolkata Knight Riders,2020.0,Overseas,27.0,5.0,0,0,0,0,0,0,1,0,0,119
+Pat Cummins,All-Rounder,72500000,Kolkata Knight Riders,2022.0,Overseas,29.0,5.0,0,0,0,0,0,0,0,0,1,119
+Pat Cummins,Bowler,10000000,Kolkata Knight Riders,2014.0,Overseas,21.0,5.0,1,0,0,0,0,0,0,0,0,119
+Pat Cummins,Bowler,45000000,Delhi Daredevils,2017.0,Overseas,24.0,5.0,0,0,0,1,0,0,0,0,0,119
+Rassie Van Der Dussen,Batsman,10000000,Rajasthan Royals,2022.0,Overseas,33.0,3.5,0,0,0,0,0,0,0,0,1,120
+Ravi Bopara,All-Rounder,10000000,Sunrisers Hyderabad,2015.0,Indian,30.0,4.5,0,1,0,0,0,0,0,0,0,121
+Ravi Rampaul,Bowler,21750000,Royal Challengers Bangalore,2013.0,Overseas,29.0,4.0,0,0,0,0,0,0,0,0,0,122
+Ravi Rampaul,Bowler,9000000,Royal Challengers Bangalore,2014.0,Overseas,30.0,4.0,1,0,0,0,0,0,0,0,0,122
+Riley Meredith,Bowler,80000000,Punjab Kings,2021.0,Overseas,25.0,5.0,0,0,0,0,0,0,0,1,0,123
+Riley Meredith,Bowler,10000000,Mumbai Indians,2022.0,Overseas,26.0,5.0,0,0,0,0,0,0,0,0,1,123
+Romario Shepherd,All-Rounder,77500000,Sunrisers Hyderabad,2022.0,Overseas,28.0,4.0,0,0,0,0,0,0,0,0,1,124
+Ross Taylor,Batsman,20000000,Delhi Daredevils,2014.0,Overseas,30.0,4.0,1,0,0,0,0,0,0,0,0,125
+Rovman Powell,All-Rounder,3000000,Kolkata Knight Riders,2017.0,Overseas,24.0,4.0,0,0,0,1,0,0,0,0,0,126
+Sam Billings,Wicket Keeper,3000000,Delhi Daredevils,2016.0,Overseas,25.0,4.5,0,0,1,0,0,0,0,0,0,127
+Sam Billings,Wicket Keeper,10000000,Chennai Super Kings,2018.0,Overseas,27.0,4.5,0,0,0,0,1,0,0,0,0,127
+Sam Billings,Wicket Keeper,20000000,Delhi Capitals,2021.0,Overseas,30.0,4.5,0,0,0,0,0,0,0,1,0,127
+Sam Billings,Wicket Keeper,20000000,Kolkata Knight Riders,2022.0,Overseas,31.0,4.5,0,0,0,0,0,0,0,0,1,127
+Sam Curran,All-Rounder,72000000,Kings XI Punjab,2019.0,Overseas,21.0,4.5,0,0,0,0,0,1,0,0,0,128
+Sam Curran,All-Rounder,55000000,Chennai Super Kings,2020.0,Overseas,22.0,4.5,0,0,0,0,0,0,1,0,0,128
+Samuel Badree,Bowler,3000000,Chennai Super Kings,2014.0,Overseas,33.0,4.0,1,0,0,0,0,0,0,0,0,129
+Samuel Badree,Bowler,5000000,Royal Challengers Bangalore,2016.0,Overseas,35.0,4.0,0,0,1,0,0,0,0,0,0,129
+Sandeep Lamichhane,Bowler,2000000,Delhi Daredevils,2018.0,Overseas,18.0,2.0,0,0,0,0,1,0,0,0,0,130
+Scott Boland,Bowler,5000000,Rising Pune Supergiant,2016.0,Overseas,27.0,5.0,0,0,1,0,0,0,0,0,0,131
+Sean Abbott,Bowler,10000000,Royal Challengers Bangalore,2015.0,Overseas,23.0,5.0,0,1,0,0,0,0,0,0,0,132
+Sean Abbott,Bowler,24000000,Sunrisers Hyderabad,2022.0,Overseas,30.0,5.0,0,0,0,0,0,0,0,0,1,132
+Shakib Al Hasan,All-Rounder,28000000,Kolkata Knight Riders,2014.0,Overseas,27.0,2.0,1,0,0,0,0,0,0,0,0,133
+Shakib Al Hasan,All-Rounder,20000000,Sunrisers Hyderabad,2018.0,Overseas,31.0,2.0,0,0,0,0,1,0,0,0,0,133
+Shakib Al Hasan,All-Rounder,32000000,Kolkata Knight Riders,2021.0,Overseas,34.0,2.0,0,0,0,0,0,0,0,1,0,133
+Shane Watson,All-Rounder,95000000,Royal Challengers Bangalore,2016.0,Overseas,35.0,5.0,0,0,1,0,0,0,0,0,0,134
+Shane Watson,All-Rounder,40000000,Chennai Super Kings,2018.0,Overseas,37.0,5.0,0,0,0,0,1,0,0,0,0,134
+Shaun Marsh,Batsman,22000000,Kings XI Punjab,2014.0,Overseas,31.0,5.0,1,0,0,0,0,0,0,0,0,135
+Sheldon Cottrell,Bowler,85000000,Kings XI Punjab,2020.0,Overseas,31.0,4.0,0,0,0,0,0,0,1,0,0,136
+Sherfane Rutherford,All-Rounder,20000000,Delhi Capitals,2019.0,Overseas,21.0,4.0,0,0,0,0,0,1,0,0,0,137
+Sherfane Rutherford,All-Rounder,10000000,Royal Challengers Bangalore,2022.0,Overseas,24.0,4.0,0,0,0,0,0,0,0,0,1,137
+Shimron Hetmyer,Batsman,42000000,Royal Challengers Bangalore,2019.0,Overseas,23.0,4.0,0,0,0,0,0,1,0,0,0,138
+Shimron Hetmyer,Batsman,77500000,Delhi Capitals,2020.0,Overseas,24.0,4.0,0,0,0,0,0,0,1,0,0,138
+Tanmay Mishra,Batsman,1000000,Royal Challengers Bangalore,2014.0,Indian,28.0,2.0,1,0,0,0,0,0,0,0,0,139
+Thisara Perera,All-Rounder,50625000,Sunrisers Hyderabad,2013.0,Overseas,24.0,2.0,0,0,0,0,0,0,0,0,0,140
+Thisara Perera,All-Rounder,16000000,Kings XI Punjab,2014.0,Overseas,25.0,2.0,1,0,0,0,0,0,0,0,0,140
+Thisara Perera,All-Rounder,10000000,Rising Pune Supergiant,2016.0,Overseas,27.0,2.0,0,0,1,0,0,0,0,0,0,140
+Tim David,All-Rounder,82500000,Mumbai Indians,2022.0,Overseas,26.0,5.0,0,0,0,0,0,0,0,0,1,141
+Tim Seifert,Wicket Keeper,5000000,Delhi Capitals,2022.0,Overseas,28.0,4.0,0,0,0,0,0,0,0,0,1,142
+Tim Southee,Bowler,12000000,Rajasthan Royals,2014.0,Overseas,26.0,4.0,1,0,0,0,0,0,0,0,0,143
+Tim Southee,Bowler,25000000,Mumbai Indians,2016.0,Overseas,28.0,4.0,0,0,1,0,0,0,0,0,0,143
+Tim Southee,Bowler,10000000,Royal Challengers Bangalore,2018.0,Overseas,30.0,4.0,0,0,0,0,1,0,0,0,0,143
+Tom Banton,Batsman,10000000,Kolkata Knight Riders,2020.0,Overseas,22.0,4.5,0,0,0,0,0,0,1,0,0,144
+Tom Curran,All-Rounder,10000000,Rajasthan Royals,2020.0,Overseas,25.0,4.5,0,0,0,0,0,0,1,0,0,145
+Tom Curran,All-Rounder,52500000,Delhi Capitals,2021.0,Overseas,26.0,4.5,0,0,0,0,0,0,0,1,0,145
+Travis Head,Batsman,3000000,Delhi Daredevils,2015.0,Overseas,22.0,5.0,0,1,0,0,0,0,0,0,0,146
+Travis Head,Batsman,5000000,Royal Challengers Bangalore,2016.0,Overseas,23.0,5.0,0,0,1,0,0,0,0,0,0,146
+Trent Boult,Bowler,38000000,Sunrisers Hyderabad,2015.0,Overseas,26.0,4.0,0,1,0,0,0,0,0,0,0,147
+Trent Boult,Bowler,50000000,Kolkata Knight Riders,2017.0,Overseas,28.0,4.0,0,0,0,1,0,0,0,0,0,147
+Trent Boult,Bowler,22000000,Delhi Daredevils,2018.0,Overseas,29.0,4.0,0,0,0,0,1,0,0,0,0,147
+Trent Boult,Bowler,80000000,Rajasthan Royals,2022.0,Overseas,33.0,4.0,0,0,0,0,0,0,0,0,1,147
+Tymal Mills,Bowler,120000000,Royal Challengers Bangalore,2017.0,Overseas,25.0,4.5,0,0,0,1,0,0,0,0,0,148
+Tymal Mills,Bowler,15000000,Mumbai Indians,2022.0,Overseas,30.0,4.5,0,0,0,0,0,0,0,0,1,148
+Wanindu Hasaranga,All-Rounder,107500000,Royal Challengers Bangalore,2022.0,Overseas,25.0,2.0,0,0,0,0,0,0,0,0,1,149
+Wayne Parnell,Bowler,10000000,Delhi Daredevils,2014.0,Overseas,25.0,3.5,1,0,0,0,0,0,0,0,0,150

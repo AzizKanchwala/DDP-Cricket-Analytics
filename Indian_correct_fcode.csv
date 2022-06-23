@@ -1,0 +1,398 @@
+Player,Role,Amount,Team,Year,Player Origin,Player Age,Country,y14,y15,y16,y17,y18,y19,y20,y21,y22,fcode
+Abdul Samad,All-Rounder,2000000,Sunrisers Hyderabad,2020.0,Indian,19.0,IND,0,0,0,0,0,0,1,0,0,0
+Abhijeet Tomar,Batsman,4000000,Kolkata Knight Riders,2022.0,Indian,27.0,IND,0,0,0,0,0,0,0,0,1,1
+Abhimanyu Mithun,Bowler,3000000,Mumbai Indians,2015.0,Indian,26.0,IND,0,1,0,0,0,0,0,0,0,2
+Abhimanyu Mithun,Bowler,3000000,Sunrisers Hyderabad,2016.0,Indian,27.0,IND,0,0,1,0,0,0,0,0,0,2
+Abhishek Sharma,All-Rounder,5500000,Delhi Daredevils,2018.0,Indian,24.0,IND,0,0,0,0,1,0,0,0,0,3
+Abhishek Sharma,All-Rounder,65000000,Sunrisers Hyderabad,2022.0,Indian,28.0,IND,0,0,0,0,0,0,0,0,1,3
+Aditya Garhwal,All-Rounder,2500000,Kolkata Knight Riders,2015.0,Indian,19.0,IND,0,1,0,0,0,0,0,0,0,4
+Aditya Tare,Wicket Keeper,16000000,Mumbai Indians,2014.0,Indian,27.0,IND,1,0,0,0,0,0,0,0,0,5
+Aditya Tare,Wicket Keeper,12000000,Sunrisers Hyderabad,2016.0,Indian,29.0,IND,0,0,1,0,0,0,0,0,0,5
+Aditya Tare,Wicket Keeper,2500000,Delhi Daredevils,2017.0,Indian,30.0,IND,0,0,0,1,0,0,0,0,0,5
+Aditya Tare,Wicket Keeper,2000000,Mumbai Indians,2018.0,Indian,31.0,IND,0,0,0,0,1,0,0,0,0,5
+Agnivesh Ayachi,All-Rounder,2000000,Kings XI Punjab,2019.0,Indian,24.0,IND,0,0,0,0,0,1,0,0,0,6
+Ajinkya Rahane,Batsman,40000000,Rajasthan Royals,2018.0,Indian,30.0,IND,0,0,0,0,1,0,0,0,0,7
+Ajinkya Rahane,Batsman,10000000,Kolkata Knight Riders,2022.0,Indian,34.0,IND,0,0,0,0,0,0,0,0,1,7
+Akash Deep,Bowler,2000000,Royal Challengers Bangalore,2022.0,Indian,26.0,IND,0,0,0,0,0,0,0,0,1,8
+Akshay Karnewar,All-Rounder,1000000,Royal Challengers Bangalore,2016.0,Indian,24.0,IND,0,0,1,0,0,0,0,0,0,9
+Akshay Wakhare,Bowler,1000000,Mumbai Indians,2015.0,Indian,30.0,IND,0,1,0,0,0,0,0,0,0,10
+Akshdeep Nath,All-Rounder,1000000,Gujarat Lions,2016.0,Indian,23.0,IND,0,0,1,0,0,0,0,0,0,11
+Akshdeep Nath,All-Rounder,1000000,Gujarat Lions,2017.0,Indian,24.0,IND,0,0,0,1,0,0,0,0,0,11
+Akshdeep Nath,All-Rounder,10000000,Kings XI Punjab,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,11
+Akshdeep Nath,All-Rounder,36000000,Royal Challengers Bangalore,2019.0,Indian,26.0,IND,0,0,0,0,0,1,0,0,0,11
+Ambati Rayudu,Wicket Keeper,22000000,Chennai Super Kings,2018.0,Indian,33.0,IND,0,0,0,0,1,0,0,0,0,12
+Ambati Rayudu,Wicket Keeper,67500000,Chennai Super Kings,2022.0,Indian,37.0,IND,0,0,0,0,0,0,0,0,1,12
+Amit Mishra,Bowler,1000000,Rajasthan Royals,2014.0,Indian,26.0,IND,1,0,0,0,0,0,0,0,0,13
+Amit Mishra,Bowler,35000000,Delhi Daredevils,2015.0,Indian,27.0,IND,0,1,0,0,0,0,0,0,0,13
+Amit Mishra,Bowler,1000000,Gujarat Lions,2016.0,Indian,28.0,IND,0,0,1,0,0,0,0,0,0,13
+Amit Mishra,Bowler,40000000,Delhi Daredevils,2018.0,Indian,30.0,IND,0,0,0,0,1,0,0,0,0,13
+Amit Paunikar,Wicket Keeper,2000000,Sunrisers Hyderabad,2014.0,Indian,26.0,IND,1,0,0,0,0,0,0,0,0,14
+Aniket Choudhary,Bowler,20000000,Royal Challengers Bangalore,2017.0,Indian,27.0,IND,0,0,0,1,0,0,0,0,0,15
+Aniket Choudhary,Bowler,3000000,Royal Challengers Bangalore,2018.0,Indian,28.0,IND,0,0,0,0,1,0,0,0,0,15
+Ankit Sharma,All-Rounder,1000000,Rising Pune Supergiant,2016.0,Indian,25.0,IND,0,0,1,0,0,0,0,0,0,16
+Ankit Sharma,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,27.0,IND,0,0,0,0,1,0,0,0,0,16
+Ankit Singh Rajpoot,Bowler,15000000,Kolkata Knight Riders,2016.0,Indian,23.0,IND,0,0,1,0,0,0,0,0,0,17
+Ankit Singh Rajpoot,Bowler,30000000,Kings XI Punjab,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,17
+Ankit Singh Rajpoot,Bowler,5000000,Lucknow Super Giants,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,17
+Ankush Bains,Wicket Keeper,1000000,Rajasthan Royals,2014.0,Indian,19.0,IND,1,0,0,0,0,0,0,0,0,18
+Ankush Bains,Wicket Keeper,1000000,Chennai Super Kings,2015.0,Indian,20.0,IND,0,1,0,0,0,0,0,0,0,18
+Ankush Bains,Wicket Keeper,1000000,Rising Pune Supergiant,2016.0,Indian,21.0,IND,0,0,1,0,0,0,0,0,0,18
+Ankush Bains,Wicket Keeper,2000000,Delhi Capitals,2019.0,Indian,24.0,IND,0,0,0,0,0,1,0,0,0,18
+Anmolpreet Singh,Batsman,8000000,Mumbai Indians,2019.0,Indian,21.0,IND,0,0,0,0,0,1,0,0,0,19
+Anmolpreet Singh,Batsman,2000000,Mumbai Indians,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,19
+Ansh Patel,All-Rounder,2000000,Punjab Kings,2022.0,Indian,20.0,IND,0,0,0,0,0,0,0,0,1,20
+Anuj Rawat,Wicket Keeper,8000000,Rajasthan Royals,2020.0,Indian,21.0,IND,0,0,0,0,0,0,1,0,0,21
+Anuj Rawat,Wicket Keeper,34000000,Royal Challengers Bangalore,2022.0,Indian,23.0,IND,0,0,0,0,0,0,0,0,1,21
+Anukul Roy,All-Rounder,2000000,Mumbai Indians,2018.0,Indian,20.0,IND,0,0,0,0,1,0,0,0,0,22
+Anukul Roy,All-Rounder,2000000,Kolkata Knight Riders,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,22
+Anureet Singh,Bowler,2000000,Kings XI Punjab,2014.0,Indian,26.0,IND,1,0,0,0,0,0,0,0,0,23
+Anureet Singh,Bowler,3000000,Rajasthan Royals,2018.0,Indian,30.0,IND,0,0,0,0,1,0,0,0,0,23
+Arjun Tendulkar,All-Rounder,2000000,Mumbai Indians,2021.0,Indian,22.0,IND,0,0,0,0,0,0,0,1,0,24
+Arjun Tendulkar,All-Rounder,3000000,Mumbai Indians,2022.0,Indian,23.0,IND,0,0,0,0,0,0,0,0,1,24
+Arshdeep Singh,Bowler,2000000,Kings XI Punjab,2019.0,Indian,20.0,IND,0,0,0,0,0,1,0,0,0,25
+Aryan Juyal,Wicket Keeper,2000000,Mumbai Indians,2022.0,Indian,21.0,IND,0,0,0,0,0,0,0,0,1,26
+Ashish Nehra,Bowler,20000000,Chennai Super Kings,2014.0,Indian,35.0,IND,1,0,0,0,0,0,0,0,0,27
+Ashish Nehra,Bowler,55000000,Sunrisers Hyderabad,2016.0,Indian,37.0,IND,0,0,1,0,0,0,0,0,0,27
+Ashish Reddy,Bowler,2000000,Sunrisers Hyderabad,2014.0,Indian,23.0,IND,1,0,0,0,0,0,0,0,0,28
+Ashok Dinda,Bowler,15000000,Royal Challengers Bangalore,2014.0,Indian,30.0,IND,1,0,0,0,0,0,0,0,0,29
+Ashok Dinda,Bowler,5000000,Rising Pune Supergiant,2016.0,Indian,32.0,IND,0,0,1,0,0,0,0,0,0,29
+Avesh Khan,Bowler,7000000,Delhi Daredevils,2018.0,Indian,22.0,IND,0,0,0,0,1,0,0,0,0,30
+Avesh Khan,Bowler,100000000,Lucknow Super Giants,2022.0,Indian,26.0,IND,0,0,0,0,0,0,0,0,1,30
+Ayush Badoni,All-Rounder,2000000,Lucknow Super Giants,2022.0,Indian,23.0,IND,0,0,0,0,0,0,0,0,1,31
+Baba Aparajith,Batsman,1000000,Chennai Super Kings,2014.0,Indian,20.0,IND,1,0,0,0,0,0,0,0,0,32
+Baba Aparajith,All-Rounder,1000000,Rising Pune Supergiant,2016.0,Indian,22.0,IND,0,0,1,0,0,0,0,0,0,32
+Baba Indrajith,Wicket Keeper,2000000,Kolkata Knight Riders,2022.0,Indian,28.0,IND,0,0,0,0,0,0,0,0,1,33
+Baltej Dhanda,Bowler,2000000,Punjab Kings,2022.0,Indian,32.0,IND,0,0,0,0,0,0,0,0,1,34
+Basil Thampi,Bowler,8500000,Gujarat Lions,2017.0,Indian,24.0,IND,0,0,0,1,0,0,0,0,0,35
+Basil Thampi,Bowler,9500000,Sunrisers Hyderabad,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,35
+Basil Thampi,Bowler,3000000,Mumbai Indians,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,35
+Bhuvneshwar Kumar,Bowler,42500000,Sunrisers Hyderabad,2014.0,Overseas,24.0,IND,1,0,0,0,0,0,0,0,0,36
+Bhuvneshwar Kumar,Bowler,42000000,Sunrisers Hyderabad,2022.0,Indian,32.0,IND,0,0,0,0,0,0,0,0,1,36
+Bipul Sharma,All-Rounder,2000000,Sunrisers Hyderabad,2018.0,Indian,35.0,IND,0,0,0,0,1,0,0,0,0,37
+C.Hari Nishaanth,Batsman,2000000,Chennai Super Kings,2022.0,Indian,26.0,IND,0,0,0,0,0,0,0,0,1,38
+Chaitanya Bishnoi,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,24.0,IND,0,0,0,0,1,0,0,0,0,39
+Chama Milind,Bowler,1000000,Sunrisers Hyderabad,2014.0,Indian,20.0,IND,1,0,0,0,0,0,0,0,0,40
+Chama Milind,Bowler,1000000,Delhi Daredevils,2016.0,Indian,22.0,IND,0,0,1,0,0,0,0,0,0,40
+Chama Milind,Bowler,2500000,Royal Challengers Bangalore,2022.0,Indian,28.0,IND,0,0,0,0,0,0,0,0,1,40
+Chetan Sakariya,Bowler,12000000,Rajasthan Royals,2021.0,Indian,23.0,IND,0,0,0,0,0,0,0,1,0,41
+Chetan Sakariya,Bowler,42000000,Delhi Capitals,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,41
+Cheteshwar Pujara,Batsman,19000000,Kings XI Punjab,2014.0,Indian,26.0,IND,1,0,0,0,0,0,0,0,0,42
+Cheteshwar Pujara,Batsman,5000000,Chennai Super Kings,2021.0,Indian,33.0,IND,0,0,0,0,0,0,0,1,0,42
+Darshan Nalkande,All-Rounder,3000000,Kings XI Punjab,2019.0,Indian,21.0,IND,0,0,0,0,0,1,0,0,0,43
+Darshan Nalkande,All-Rounder,2000000,Gujarat Titans,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,43
+Debabrata Das,Wicket Keeper,2000000,Kolkata Knight Riders,2014.0,Indian,28.0,IND,1,0,0,0,0,0,0,0,0,44
+Deepak Chahar,All-Rounder,1000000,Rising Pune Supergiant,2016.0,Indian,24.0,IND,0,0,1,0,0,0,0,0,0,45
+Deepak Chahar,All-Rounder,8000000,Chennai Super Kings,2018.0,Indian,26.0,IND,0,0,0,0,1,0,0,0,0,45
+Deepak Chahar,Bowler,140000000,Chennai Super Kings,2022.0,Indian,30.0,IND,0,0,0,0,0,0,0,0,1,45
+Deepak Hooda,Bowler,4000000,Rajasthan Royals,2014.0,Indian,19.0,IND,1,0,0,0,0,0,0,0,0,46
+Deepak Hooda,All-Rounder,42000000,Sunrisers Hyderabad,2016.0,Indian,21.0,IND,0,0,1,0,0,0,0,0,0,46
+Deepak Hooda,All-Rounder,36000000,Sunrisers Hyderabad,2018.0,Indian,23.0,IND,0,0,0,0,1,0,0,0,0,46
+Deepak Hooda,All-Rounder,5000000,Kings XI Punjab,2020.0,Indian,25.0,IND,0,0,0,0,0,0,1,0,0,46
+Deepak Hooda,All-Rounder,57500000,Lucknow Super Giants,2022.0,Indian,27.0,IND,0,0,0,0,0,0,0,0,1,46
+Deepak Punia,All-Rounder,1000000,Mumbai Indians,2016.0,Indian,23.0,IND,0,0,1,0,0,0,0,0,0,47
+Devdutt Padikkal,Batsman,2000000,Royal Challengers Bangalore,2019.0,Indian,19.0,IND,0,0,0,0,0,1,0,0,0,48
+Devdutt Padikkal,Batsman,77500000,Rajasthan Royals,2022.0,Indian,22.0,IND,0,0,0,0,0,0,0,0,1,48
+Dhawal Kulkarni,Bowler,11000000,Rajasthan Royals,2014.0,Indian,26.0,IND,1,0,0,0,0,0,0,0,0,49
+Dhawal Kulkarni,Bowler,20000000,Gujarat Lions,2016.0,Indian,28.0,IND,0,0,1,0,0,0,0,0,0,49
+Dhawal Kulkarni,Bowler,7500000,Rajasthan Royals,2018.0,Indian,30.0,IND,0,0,0,0,1,0,0,0,0,49
+Dhruv Jurel,Wicket Keeper,2000000,Rajasthan Royals,2022.0,Indian,21.0,IND,0,0,0,0,0,0,0,0,1,50
+Dhruv Shorey,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,26.0,IND,0,0,0,0,1,0,0,0,0,51
+Digvijay Deshmukh,All-Rounder,2000000,Mumbai Indians,2020.0,Indian,22.0,IND,0,0,0,0,0,0,1,0,0,52
+Dinesh Karthik,Wicket Keeper,125000000,Delhi Daredevils,2014.0,Indian,29.0,IND,1,0,0,0,0,0,0,0,0,53
+Dinesh Karthik,Wicket Keeper,105000000,Royal Challengers Bangalore,2015.0,Indian,30.0,IND,0,1,0,0,0,0,0,0,0,53
+Dinesh Karthik,Wicket Keeper,23000000,Gujarat Lions,2016.0,Indian,31.0,IND,0,0,1,0,0,0,0,0,0,53
+Dinesh Karthik,Wicket Keeper,74000000,Kolkata Knight Riders,2018.0,Indian,33.0,IND,0,0,0,0,1,0,0,0,0,53
+Dinesh Karthik,Wicket Keeper,55000000,Royal Challengers Bangalore,2022.0,Indian,37.0,IND,0,0,0,0,0,0,0,0,1,53
+Eklavya Dwivedi,Wicket Keeper,1000000,Chennai Super Kings,2015.0,Indian,27.0,IND,0,1,0,0,0,0,0,0,0,54
+Eklavya Dwivedi,Wicket Keeper,10000000,Gujarat Lions,2016.0,Indian,28.0,IND,0,0,1,0,0,0,0,0,0,54
+Eklavya Dwivedi,Wicket Keeper,7500000,Sunrisers Hyderabad,2017.0,Indian,29.0,IND,0,0,0,1,0,0,0,0,0,54
+Gautam Gambhir,Batsman,28000000,Delhi Daredevils,2018.0,Indian,37.0,IND,0,0,0,0,1,0,0,0,0,55
+Hanuma Vihari,Batsman,1000000,Sunrisers Hyderabad,2015.0,Indian,22.0,IND,0,1,0,0,0,0,0,0,0,56
+Hanuma Vihari,Batsman,20000000,Delhi Capitals,2019.0,Indian,26.0,IND,0,0,0,0,0,1,0,0,0,56
+Harbhajan Singh,Bowler,20000000,Chennai Super Kings,2018.0,Indian,38.0,IND,0,0,0,0,1,0,0,0,0,57
+Harbhajan Singh,Bowler,20000000,Kolkata Knight Riders,2021.0,Indian,41.0,IND,0,0,0,0,0,0,0,1,0,57
+Hardik Pandya,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,22.0,IND,0,1,0,0,0,0,0,0,0,58
+Harpreet Brar,All-Rounder,2000000,Kings XI Punjab,2019.0,Indian,24.0,IND,0,0,0,0,0,1,0,0,0,59
+Harpreet Brar,All-Rounder,38000000,Punjab Kings,2022.0,Indian,27.0,IND,0,0,0,0,0,0,0,0,1,59
+Harshal Patel,Bowler,4000000,Royal Challengers Bangalore,2014.0,Indian,24.0,IND,1,0,0,0,0,0,0,0,0,60
+Harshal Patel,All-Rounder,2000000,Delhi Daredevils,2018.0,Indian,28.0,IND,0,0,0,0,1,0,0,0,0,60
+Harshal Patel,All-Rounder,107500000,Royal Challengers Bangalore,2022.0,Indian,32.0,IND,0,0,0,0,0,0,0,0,1,60
+Himmat Singh,Batsman,6500000,Royal Challengers Bangalore,2019.0,Indian,23.0,IND,0,0,0,0,0,1,0,0,0,61
+HS Sharath,Bowler,1000000,Delhi Daredevils,2014.0,Indian,21.0,IND,1,0,0,0,0,0,0,0,0,62
+Irfan Pathan,All-Rounder,24000000,Sunrisers Hyderabad,2014.0,Indian,30.0,IND,1,0,0,0,0,0,0,0,0,63
+Irfan Pathan,All-Rounder,15000000,Chennai Super Kings,2015.0,Indian,31.0,IND,0,1,0,0,0,0,0,0,0,63
+Irfan Pathan,All-Rounder,10000000,Rising Pune Supergiant,2016.0,Indian,32.0,IND,0,0,1,0,0,0,0,0,0,63
+Ishan Kishan,Wicket Keeper,3500000,Gujarat Lions,2016.0,Indian,18.0,IND,0,0,1,0,0,0,0,0,0,64
+Ishan Kishan,Wicket Keeper,62000000,Mumbai Indians,2018.0,Indian,20.0,IND,0,0,0,0,1,0,0,0,0,64
+Ishan Kishan,Wicket Keeper,152500000,Mumbai Indians,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,64
+Ishan Porel,Bowler,2500000,Punjab Kings,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,65
+Ishank Jaggi,Batsman,1000000,Kolkata Knight Riders,2017.0,Indian,28.0,IND,0,0,0,1,0,0,0,0,0,66
+Ishank Jaggi,Batsman,2000000,Kolkata Knight Riders,2018.0,Indian,29.0,IND,0,0,0,0,1,0,0,0,0,66
+Ishant Sharma,Bowler,26000000,Sunrisers Hyderabad,2014.0,Indian,26.0,IND,1,0,0,0,0,0,0,0,0,67
+Ishant Sharma,Bowler,38000000,Rising Pune Supergiant,2016.0,Indian,28.0,IND,0,0,1,0,0,0,0,0,0,67
+Jagadeesha Suchith,Bowler,2000000,Sunrisers Hyderabad,2022.0,Indian,28.0,IND,0,0,0,0,0,0,0,0,1,68
+Jalaj Saxena,All-Rounder,9000000,Mumbai Indians,2014.0,Indian,28.0,IND,1,0,0,0,0,0,0,0,0,69
+Jalaj Saxena,All-Rounder,1000000,Royal Challengers Bangalore,2015.0,Indian,29.0,IND,0,1,0,0,0,0,0,0,0,69
+Jalaj Saxena,All-Rounder,2000000,Delhi Capitals,2019.0,Indian,33.0,IND,0,0,0,0,0,1,0,0,0,69
+Jalaj Saxena,All-Rounder,3000000,Punjab Kings,2021.0,Indian,35.0,IND,0,0,0,0,0,0,0,1,0,69
+Jasprit Bumrah,Bowler,12000000,Mumbai Indians,2014.0,Indian,21.0,IND,1,0,0,0,0,0,0,0,0,70
+Jayant Yadav,All-Rounder,1000000,Delhi Daredevils,2014.0,Indian,24.0,IND,1,0,0,0,0,0,0,0,0,71
+Jayant Yadav,All-Rounder,5000000,Delhi Daredevils,2018.0,Indian,28.0,IND,0,0,0,0,1,0,0,0,0,71
+Jayant Yadav,All-Rounder,17000000,Gujarat Titans,2022.0,Indian,32.0,IND,0,0,0,0,0,0,0,0,1,71
+Jaydev Shah,All-Rounder,2000000,Gujarat Lions,2016.0,Indian,33.0,IND,0,0,1,0,0,0,0,0,0,72
+Jaydev Unadkat,Bowler,39375000,Royal Challengers Bangalore,2013.0,Indian,22.0,IND,0,0,0,0,0,0,0,0,0,73
+Jaydev Unadkat,Bowler,28000000,Delhi Daredevils,2014.0,Indian,23.0,IND,1,0,0,0,0,0,0,0,0,73
+Jaydev Unadkat,Bowler,11000000,Delhi Daredevils,2015.0,Indian,24.0,IND,0,1,0,0,0,0,0,0,0,73
+Jaydev Unadkat,Bowler,16000000,Kolkata Knight Riders,2016.0,Indian,25.0,IND,0,0,1,0,0,0,0,0,0,73
+Jaydev Unadkat,Bowler,3000000,Rising Pune Supergiant,2017.0,Indian,26.0,IND,0,0,0,1,0,0,0,0,0,73
+Jaydev Unadkat,Bowler,115000000,Rajasthan Royals,2018.0,Indian,27.0,IND,0,0,0,0,1,0,0,0,0,73
+Jaydev Unadkat,Bowler,84000000,Rajasthan Royals,2019.0,Indian,28.0,IND,0,0,0,0,0,1,0,0,0,73
+Jaydev Unadkat,Bowler,30000000,Rajasthan Royals,2020.0,Indian,29.0,IND,0,0,0,0,0,0,1,0,0,73
+Jaydev Unadkat,Bowler,13000000,Mumbai Indians,2022.0,Indian,31.0,IND,0,0,0,0,0,0,0,0,1,73
+Jitesh Sharma,Wicket Keeper,1000000,Mumbai Indians,2016.0,Indian,23.0,IND,0,0,1,0,0,0,0,0,0,74
+Jitesh Sharma,Wicket Keeper,2000000,Punjab Kings,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,74
+K.Bhagath Varma,All-Rounder,2000000,Chennai Super Kings,2021.0,Indian,23.0,IND,0,0,0,0,0,0,0,1,0,75
+K.Bhagath Varma,All-Rounder,2000000,Chennai Super Kings,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,75
+K.C Cariappa,Bowler,2000000,Rajasthan Royals,2021.0,Indian,27.0,IND,0,0,0,0,0,0,0,1,0,76
+Kamlesh Nagarkoti,All-Rounder,32000000,Kolkata Knight Riders,2018.0,Indian,19.0,IND,0,0,0,0,1,0,0,0,0,77
+Kamlesh Nagarkoti,All-Rounder,11000000,Delhi Capitals,2022.0,Indian,23.0,IND,0,0,0,0,0,0,0,0,1,77
+Kanishk Seth,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,21.0,IND,0,0,0,0,1,0,0,0,0,78
+Karan Sharma,All-Rounder,2000000,Lucknow Super Giants,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,79
+Karanveer Singh,All-Rounder,1000000,Kings XI Punjab,2014.0,Indian,27.0,IND,1,0,0,0,0,0,0,0,0,80
+Karn Sharma,Bowler,37500000,Sunrisers Hyderabad,2014.0,Indian,27.0,IND,1,0,0,0,0,0,0,0,0,81
+Karn Sharma,All-Rounder,32000000,Mumbai Indians,2017.0,Indian,30.0,IND,0,0,0,1,0,0,0,0,0,81
+Karn Sharma,Bowler,50000000,Chennai Super Kings,2018.0,Indian,31.0,IND,0,0,0,0,1,0,0,0,0,81
+Karn Sharma,Bowler,5000000,Royal Challengers Bangalore,2022.0,Indian,35.0,IND,0,0,0,0,0,0,0,0,1,81
+Kartik Tyagi,Bowler,13000000,Rajasthan Royals,2020.0,Indian,20.0,IND,0,0,0,0,0,0,1,0,0,82
+Kartik Tyagi,Bowler,40000000,Sunrisers Hyderabad,2022.0,Indian,22.0,IND,0,0,0,0,0,0,0,0,1,82
+Karun Nair,Batsman,7500000,Rajasthan Royals,2014.0,Indian,23.0,IND,1,0,0,0,0,0,0,0,0,83
+Karun Nair,Batsman,40000000,Delhi Daredevils,2016.0,Indian,25.0,IND,0,0,1,0,0,0,0,0,0,83
+Karun Nair,Batsman,56000000,Kings XI Punjab,2018.0,Indian,27.0,IND,0,0,0,0,1,0,0,0,0,83
+Karun Nair,Batsman,5000000,Kolkata Knight Riders,2021.0,Indian,30.0,IND,0,0,0,0,0,0,0,1,0,83
+Karun Nair,Batsman,14000000,Rajasthan Royals,2022.0,Indian,31.0,IND,0,0,0,0,0,0,0,0,1,83
+Kedar Jadhav,Batsman,20000000,Delhi Daredevils,2014.0,Indian,29.0,IND,1,0,0,0,0,0,0,0,0,84
+Kedar Jadhav,All-Rounder,78000000,Chennai Super Kings,2018.0,Indian,33.0,IND,0,0,0,0,1,0,0,0,0,84
+Kedar Jadhav,All-Rounder,20000000,Sunrisers Hyderabad,2021.0,Indian,36.0,IND,0,0,0,0,0,0,0,1,0,84
+Krunal Pandya,All-Rounder,20000000,Mumbai Indians,2016.0,Indian,25.0,IND,0,0,1,0,0,0,0,0,0,85
+Krunal Pandya,All-Rounder,88000000,Mumbai Indians,2018.0,Indian,27.0,IND,0,0,0,0,1,0,0,0,0,85
+Krunal Pandya,All-Rounder,82500000,Lucknow Super Giants,2022.0,Indian,31.0,IND,0,0,0,0,0,0,0,0,1,85
+Kshitiz Sharma,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,28.0,IND,0,0,0,0,1,0,0,0,0,86
+Kuldeep Sen,Bowler,2000000,Rajasthan Royals,2022.0,Indian,26.0,IND,0,0,0,0,0,0,0,0,1,87
+Kuldeep Yadav,Bowler,4000000,Kolkata Knight Riders,2014.0,Indian,20.0,IND,1,0,0,0,0,0,0,0,0,88
+Kuldeep Yadav,Bowler,58000000,Kolkata Knight Riders,2018.0,Indian,24.0,IND,0,0,0,0,1,0,0,0,0,88
+Kuldeep Yadav,Bowler,20000000,Delhi Capitals,2022.0,Indian,28.0,IND,0,0,0,0,0,0,0,0,1,88
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2021.0,Indian,25.0,IND,0,0,0,0,0,0,0,1,0,89
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2022.0,Indian,26.0,IND,0,0,0,0,0,0,0,0,1,89
+Kulwant Khejroliya,Bowler,1000000,Mumbai Indians,2017.0,Indian,25.0,IND,0,0,0,1,0,0,0,0,0,90
+Lalit Yadav,All-Rounder,2000000,Delhi Capitals,2020.0,Indian,25.0,IND,0,0,0,0,0,0,1,0,0,91
+Lalit Yadav,All-Rounder,6500000,Delhi Capitals,2022.0,Indian,27.0,IND,0,0,0,0,0,0,0,0,1,91
+M Siddharth,Bowler,2000000,Kolkata Knight Riders,2020.0,Indian,22.0,IND,0,0,0,0,0,0,1,0,0,92
+M. Harisankar Reddy,Bowler,2000000,Chennai Super Kings,2021.0,Indian,23.0,IND,0,0,0,0,0,0,0,1,0,93
+Mahipal Lomror,All-Rounder,1000000,Delhi Daredevils,2016.0,Indian,17.0,IND,0,0,1,0,0,0,0,0,0,94
+Mahipal Lomror,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,19.0,IND,0,0,0,0,1,0,0,0,0,94
+Manan Vohra,Batsman,11000000,Royal Challengers Bangalore,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,95
+Manan Vohra,Batsman,2000000,Rajasthan Royals,2019.0,Indian,26.0,IND,0,0,0,0,0,1,0,0,0,95
+Manish Pandey,Batsman,17000000,Kolkata Knight Riders,2014.0,Indian,25.0,IND,1,0,0,0,0,0,0,0,0,96
+Manish Pandey,Batsman,110000000,Sunrisers Hyderabad,2018.0,Indian,29.0,IND,0,0,0,0,1,0,0,0,0,96
+Manish Pandey,Batsman,46000000,Lucknow Super Giants,2022.0,Indian,33.0,IND,0,0,0,0,0,0,0,0,1,96
+Manjot Kalra,Batsman,2000000,Delhi Daredevils,2018.0,Indian,19.0,IND,0,0,0,0,1,0,0,0,0,97
+Manoj Tiwary,Batsman,28000000,Delhi Daredevils,2014.0,Indian,29.0,IND,1,0,0,0,0,0,0,0,0,98
+Manoj Tiwary,Batsman,5000000,Rising Pune Supergiant,2017.0,Indian,32.0,IND,0,0,0,1,0,0,0,0,0,98
+Manoj Tiwary,Batsman,10000000,Kings XI Punjab,2018.0,Indian,33.0,IND,0,0,0,0,1,0,0,0,0,98
+Manpreet Gony,Bowler,37500000,Kings XI Punjab,2013.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,0,99
+Manpreet Gony,Bowler,6000000,Gujarat Lions,2017.0,Indian,33.0,IND,0,0,0,1,0,0,0,0,0,99
+Mayank Agarwal,Batsman,16000000,Delhi Daredevils,2014.0,Indian,23.0,IND,1,0,0,0,0,0,0,0,0,100
+Mayank Agarwal,Batsman,10000000,Kings XI Punjab,2018.0,Indian,27.0,IND,0,0,0,0,1,0,0,0,0,100
+Mayank Dagar,All-Rounder,2000000,Kings XI Punjab,2018.0,Indian,22.0,IND,0,0,0,0,1,0,0,0,0,101
+Mayank Markande,Bowler,2000000,Mumbai Indians,2018.0,Indian,21.0,IND,0,0,0,0,1,0,0,0,0,102
+Milind Kumar,Batsman,1000000,Delhi Daredevils,2014.0,Indian,23.0,IND,1,0,0,0,0,0,0,0,0,103
+Milind Kumar,All-Rounder,2000000,Royal Challengers Bangalore,2019.0,Indian,28.0,IND,0,0,0,0,0,1,0,0,0,103
+Milind Tandon,All-Rounder,1000000,Rising Pune Supergiant,2017.0,Indian,24.0,IND,0,0,0,1,0,0,0,0,0,104
+Mohammed Siraj,Bowler,26000000,Sunrisers Hyderabad,2017.0,Indian,23.0,IND,0,0,0,1,0,0,0,0,0,105
+Mohit Sharma,Bowler,20000000,Chennai Super Kings,2014.0,Indian,26.0,IND,1,0,0,0,0,0,0,0,0,106
+Mohit Sharma,Bowler,65000000,Kings XI Punjab,2016.0,Indian,28.0,IND,0,0,1,0,0,0,0,0,0,106
+Mohit Sharma,Bowler,24000000,Kings XI Punjab,2018.0,Indian,30.0,IND,0,0,0,0,1,0,0,0,0,106
+Mohit Sharma,Bowler,50000000,Chennai Super Kings,2019.0,Indian,31.0,IND,0,0,0,0,0,1,0,0,0,106
+Mohit Sharma,Bowler,5000000,Delhi Capitals,2020.0,Indian,32.0,IND,0,0,0,0,0,0,1,0,0,106
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2018.0,Indian,20.0,IND,0,0,0,0,1,0,0,0,0,107
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2020.0,Indian,22.0,IND,0,0,0,0,0,0,1,0,0,107
+Mohsin Khan,Bowler,2000000,Lucknow Super Giants,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,107
+Mukesh Choudhary,Bowler,2000000,Chennai Super Kings,2022.0,Indian,26.0,IND,0,0,0,0,0,0,0,0,1,108
+Murali Vijay,Batsman,50000000,Delhi Daredevils,2014.0,Indian,30.0,IND,1,0,0,0,0,0,0,0,0,109
+Murali Vijay,Batsman,30000000,Kings XI Punjab,2015.0,Indian,31.0,IND,0,1,0,0,0,0,0,0,0,109
+Murali Vijay,Batsman,20000000,Chennai Super Kings,2018.0,Indian,34.0,IND,0,0,0,0,1,0,0,0,0,109
+Murugan Ashwin,Bowler,16000000,Mumbai Indians,2022.0,Indian,32.0,IND,0,0,0,0,0,0,0,0,1,110
+Naman Ojha,Wicket Keeper,5000000,Sunrisers Hyderabad,2014.0,Indian,31.0,IND,1,0,0,0,0,0,0,0,0,111
+Naman Ojha,Wicket Keeper,14000000,Delhi Daredevils,2018.0,Indian,35.0,IND,0,0,0,0,1,0,0,0,0,111
+Nathu Singh,Bowler,32000000,Mumbai Indians,2016.0,Indian,21.0,IND,0,0,1,0,0,0,0,0,0,112
+Nathu Singh,Bowler,5000000,Gujarat Lions,2017.0,Indian,22.0,IND,0,0,0,1,0,0,0,0,0,112
+Nathu Singh,Bowler,2000000,Delhi Capitals,2019.0,Indian,24.0,IND,0,0,0,0,0,1,0,0,0,112
+Navdeep Saini,Bowler,1000000,Delhi Daredevils,2017.0,Indian,25.0,IND,0,0,0,1,0,0,0,0,0,113
+Navdeep Saini,Bowler,30000000,Royal Challengers Bangalore,2018.0,Indian,26.0,IND,0,0,0,0,1,0,0,0,0,113
+Navdeep Saini,Bowler,26000000,Rajasthan Royals,2022.0,Indian,30.0,IND,0,0,0,0,0,0,0,0,1,113
+Nitish Rana,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,22.0,IND,0,1,0,0,0,0,0,0,0,114
+Nitish Rana,All-Rounder,34000000,Kolkata Knight Riders,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,114
+Nitish Rana,All-Rounder,80000000,Kolkata Knight Riders,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,114
+Pankaj Jaswal,All-Rounder,2000000,Mumbai Indians,2019.0,Overseas,24.0,IND,0,0,0,0,0,1,0,0,0,115
+Pardeep Sahu,All-Rounder,1000000,Rajasthan Royals,2015.0,Indian,30.0,IND,0,1,0,0,0,0,0,0,0,116
+Pardeep Sahu,All-Rounder,1000000,Kings XI Punjab,2016.0,Indian,31.0,IND,0,0,1,0,0,0,0,0,0,116
+Pardeep Sahu,Bowler,2000000,Kings XI Punjab,2018.0,Indian,33.0,IND,0,0,0,0,1,0,0,0,0,116
+Parthiv Patel,Wicket Keeper,14000000,Royal Challengers Bangalore,2014.0,Indian,29.0,IND,1,0,0,0,0,0,0,0,0,117
+Pavan Deshpande,All-Rounder,2000000,Royal Challengers Bangalore,2018.0,Indian,29.0,IND,0,0,0,0,1,0,0,0,0,118
+Pavan Deshpande,All-Rounder,2000000,Royal Challengers Bangalore,2020.0,Indian,31.0,IND,0,0,0,0,0,0,1,0,0,118
+Pawan Negi,Bowler,1000000,Chennai Super Kings,2014.0,Indian,21.0,IND,1,0,0,0,0,0,0,0,0,119
+Pawan Negi,All-Rounder,85000000,Delhi Daredevils,2016.0,Indian,23.0,IND,0,0,1,0,0,0,0,0,0,119
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2017.0,Indian,24.0,IND,0,0,0,1,0,0,0,0,0,119
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,119
+Pawan Negi,All-Rounder,5000000,Kolkata Knight Riders,2021.0,Indian,28.0,IND,0,0,0,0,0,0,0,1,0,119
+Pawan Suyal,Bowler,1000000,Mumbai Indians,2014.0,Indian,25.0,IND,1,0,0,0,0,0,0,0,0,120
+Pawan Suyal,Bowler,1000000,Delhi Daredevils,2016.0,Indian,27.0,IND,0,0,1,0,0,0,0,0,0,120
+Piyush Chawla,Bowler,42500000,Kolkata Knight Riders,2014.0,Indian,26.0,IND,1,0,0,0,0,0,0,0,0,121
+Piyush Chawla,Bowler,42000000,Kolkata Knight Riders,2018.0,Indian,30.0,IND,0,0,0,0,1,0,0,0,0,121
+Piyush Chawla,Bowler,67500000,Chennai Super Kings,2020.0,Indian,32.0,IND,0,0,0,0,0,0,1,0,0,121
+Piyush Chawla,Bowler,24000000,Mumbai Indians,2021.0,Indian,33.0,IND,0,0,0,0,0,0,0,1,0,121
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Lions,2016.0,Indian,26.0,IND,0,0,1,0,0,0,0,0,0,122
+Pradeep Sangwan,Bowler,15000000,Mumbai Indians,2018.0,Indian,28.0,IND,0,0,0,0,1,0,0,0,0,122
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Titans,2022.0,Indian,32.0,IND,0,0,0,0,0,0,0,0,1,122
+Pragyan Ojha,Bowler,32500000,Mumbai Indians,2014.0,Indian,28.0,IND,1,0,0,0,0,0,0,0,0,123
+Prasidh Krishna,Bowler,100000000,Rajasthan Royals,2022.0,Indian,26.0,IND,0,0,0,0,0,0,0,0,1,124
+Pratham Singh,All-Rounder,1000000,Gujarat Lions,2017.0,Indian,25.0,IND,0,0,0,1,0,0,0,0,0,125
+Pratham Singh,Batsman,2000000,Kolkata Knight Riders,2022.0,Indian,30.0,IND,0,0,0,0,0,0,0,0,1,125
+Pratyush Singh,All-Rounder,1000000,Chennai Super Kings,2015.0,Indian,21.0,IND,0,1,0,0,0,0,0,0,0,126
+Pratyush Singh,All-Rounder,1000000,Delhi Daredevils,2016.0,Indian,22.0,IND,0,0,1,0,0,0,0,0,0,126
+Praveen Dubey,All-Rounder,3500000,Royal Challengers Bangalore,2016.0,Indian,23.0,IND,0,0,1,0,0,0,0,0,0,127
+Praveen Dubey,All-Rounder,1000000,Royal Challengers Bangalore,2017.0,Indian,24.0,IND,0,0,0,1,0,0,0,0,0,127
+Praveen Kumar,Bowler,22000000,Sunrisers Hyderabad,2015.0,Indian,34.0,IND,0,1,0,0,0,0,0,0,0,128
+Pravin Tambe,Bowler,1000000,Rajasthan Royals,2014.0,Indian,43.0,IND,1,0,0,0,0,0,0,0,0,129
+Pravin Tambe,Bowler,2000000,Gujarat Lions,2016.0,Indian,45.0,IND,0,0,1,0,0,0,0,0,0,129
+Pravin Tambe,Bowler,1000000,Sunrisers Hyderabad,2017.0,Indian,46.0,IND,0,0,0,1,0,0,0,0,0,129
+Prithvi Shaw,Batsman,12000000,Delhi Daredevils,2018.0,Indian,19.0,IND,0,0,0,0,1,0,0,0,0,130
+Priyam Garg,Batsman,19000000,Sunrisers Hyderabad,2020.0,Indian,20.0,IND,0,0,0,0,0,0,1,0,0,131
+Rahul Buddhi,Batsman,2000000,Mumbai Indians,2022.0,Indian,25.0,IND,0,0,0,0,0,0,0,0,1,132
+Rahul Chahar,Bowler,1000000,Rising Pune Supergiant,2017.0,Indian,18.0,IND,0,0,0,1,0,0,0,0,0,133
+Rahul Chahar,Bowler,19000000,Mumbai Indians,2018.0,Indian,19.0,IND,0,0,0,0,1,0,0,0,0,133
+Rahul Chahar,Bowler,52500000,Punjab Kings,2022.0,Indian,23.0,IND,0,0,0,0,0,0,0,0,1,133
+Rahul Sharma,Bowler,19000000,Delhi Daredevils,2014.0,Indian,28.0,IND,1,0,0,0,0,0,0,0,0,134
+Rahul Sharma,Bowler,3000000,Chennai Super Kings,2015.0,Indian,29.0,IND,0,1,0,0,0,0,0,0,0,134
+Rahul Shukla,Bowler,4000000,Delhi Daredevils,2014.0,Indian,24.0,IND,1,0,0,0,0,0,0,0,0,135
+Rahul Tewatia,All-Rounder,1000000,Rajasthan Royals,2014.0,Indian,21.0,IND,1,0,0,0,0,0,0,0,0,136
+Rahul Tewatia,All-Rounder,2500000,Kings XI Punjab,2017.0,Indian,24.0,IND,0,0,0,1,0,0,0,0,0,136
+Rahul Tewatia,All-Rounder,30000000,Delhi Daredevils,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,136
+Rahul Tewatia,All-Rounder,90000000,Gujarat Titans,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,136
+Rahul Tripathi,Batsman,34000000,Rajasthan Royals,2018.0,Indian,27.0,IND,0,0,0,0,1,0,0,0,0,137
+Rahul Tripathi,Batsman,6000000,Kolkata Knight Riders,2020.0,Indian,29.0,IND,0,0,0,0,0,0,1,0,0,137
+Rajagopal Sathish,All-Rounder,2000000,Kolkata Knight Riders,2016.0,Indian,35.0,IND,0,0,1,0,0,0,0,0,0,138
+Rajat Bhatia,All-Rounder,17000000,Rajasthan Royals,2014.0,Indian,35.0,IND,1,0,0,0,0,0,0,0,0,139
+Rajat Bhatia,All-Rounder,6000000,Rising Pune Supergiant,2016.0,Indian,37.0,IND,0,0,1,0,0,0,0,0,0,139
+Rajat Patidar,Batsman,2000000,Royal Challengers Bangalore,2021.0,Indian,28.0,IND,0,0,0,0,0,0,0,1,0,140
+Ravi Bishnoi,Bowler,20000000,Kings XI Punjab,2020.0,Indian,20.0,IND,0,0,0,0,0,0,1,0,0,141
+Ravichandran Ashwin,All-Rounder,76000000,Kings XI Punjab,2018.0,Overseas,32.0,IND,0,0,0,0,1,0,0,0,0,142
+Rinku Singh,Batsman,1000000,Kings XI Punjab,2017.0,Indian,20.0,IND,0,0,0,1,0,0,0,0,0,143
+Rinku Singh,Batsman,8000000,Kolkata Knight Riders,2018.0,Indian,21.0,IND,0,0,0,0,1,0,0,0,0,143
+Rinku Singh,Batsman,5500000,Kolkata Knight Riders,2022.0,Indian,25.0,IND,0,0,0,0,0,0,0,0,1,143
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2021.0,Indian,26.0,IND,0,0,0,0,0,0,0,1,0,144
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2022.0,Indian,27.0,IND,0,0,0,0,0,0,0,0,1,144
+Rishabh Pant,Wicket Keeper,19000000,Delhi Daredevils,2016.0,Indian,19.0,IND,0,0,1,0,0,0,0,0,0,145
+Rishi Dhawan,All-Rounder,30000000,Kings XI Punjab,2014.0,Indian,24.0,IND,1,0,0,0,0,0,0,0,0,146
+Rishi Dhawan,All-Rounder,5500000,Kolkata Knight Riders,2017.0,Indian,27.0,IND,0,0,0,1,0,0,0,0,0,146
+Rishi Dhawan,All-Rounder,5500000,Punjab Kings,2022.0,Indian,32.0,IND,0,0,0,0,0,0,0,0,1,146
+Riyan Parag,All-Rounder,2000000,Rajasthan Royals,2019.0,Indian,18.0,IND,0,0,0,0,0,1,0,0,0,147
+Riyan Parag,All-Rounder,38000000,Rajasthan Royals,2022.0,Indian,21.0,IND,0,0,0,0,0,0,0,0,1,147
+Robin Uthappa,Batsman,50000000,Kolkata Knight Riders,2014.0,Indian,29.0,IND,1,0,0,0,0,0,0,0,0,148
+Robin Uthappa,Batsman,64000000,Kolkata Knight Riders,2018.0,Indian,33.0,IND,0,0,0,0,1,0,0,0,0,148
+Robin Uthappa,Batsman,30000000,Rajasthan Royals,2020.0,Indian,35.0,IND,0,0,0,0,0,0,1,0,0,148
+Robin Uthappa,Batsman,20000000,Chennai Super Kings,2022.0,Indian,37.0,IND,0,0,0,0,0,0,0,0,1,148
+Ronit More,Bowler,1000000,Chennai Super Kings,2014.0,Indian,22.0,IND,1,0,0,0,0,0,0,0,0,149
+Ruturaj Gaikwad,Batsman,2000000,Chennai Super Kings,2019.0,Indian,22.0,IND,0,0,0,0,0,1,0,0,0,150
+Sachin Baby,Batsman,1000000,Royal Challengers Bangalore,2016.0,Indian,28.0,IND,0,0,1,0,0,0,0,0,0,151
+Sachin Baby,Batsman,2000000,Sunrisers Hyderabad,2018.0,Indian,30.0,IND,0,0,0,0,1,0,0,0,0,151
+Sandeep Bavanaka,All-Rounder,2000000,Sunrisers Hyderabad,2020.0,Overseas,28.0,IND,0,0,0,0,0,0,1,0,0,152
+Sandeep Sharma,Bowler,8500000,Kings XI Punjab,2014.0,Indian,21.0,IND,1,0,0,0,0,0,0,0,0,153
+Sandeep Sharma,Bowler,30000000,Sunrisers Hyderabad,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,153
+Sandeep Sharma,Bowler,5000000,Punjab Kings,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,153
+Sandeep Warrier,Bowler,1000000,Royal Challengers Bangalore,2014.0,Indian,23.0,IND,1,0,0,0,0,0,0,0,0,154
+Sanjay Yadav,All-Rounder,2000000,Sunrisers Hyderabad,2020.0,Indian,25.0,IND,0,0,0,0,0,0,1,0,0,155
+Sanjay Yadav,All-Rounder,5000000,Mumbai Indians,2022.0,Indian,27.0,IND,0,0,0,0,0,0,0,0,1,155
+Sanju Samson,Wicket Keeper,42000000,Delhi Daredevils,2016.0,Indian,22.0,IND,0,0,1,0,0,0,0,0,0,156
+Saurabh Dubey,Bowler,2000000,Sunrisers Hyderabad,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,157
+Saurabh Kumar,Bowler,1000000,Rising Pune Supergiant,2017.0,Indian,24.0,IND,0,0,0,1,0,0,0,0,0,158
+Saurabh Kumar,All-Rounder,2000000,Punjab Kings,2021.0,Indian,28.0,IND,0,0,0,0,0,0,0,1,0,158
+Saurabh Tiwary,Batsman,7000000,Delhi Daredevils,2014.0,Indian,25.0,IND,1,0,0,0,0,0,0,0,0,159
+Saurabh Tiwary,Batsman,3000000,Mumbai Indians,2017.0,Indian,28.0,IND,0,0,0,1,0,0,0,0,0,159
+Saurabh Tiwary,Batsman,8000000,Mumbai Indians,2018.0,Indian,29.0,IND,0,0,0,0,1,0,0,0,0,159
+Saurabh Tiwary,Batsman,5000000,Mumbai Indians,2020.0,Indian,31.0,IND,0,0,0,0,0,0,1,0,0,159
+Sayan Ghosh,Bowler,1000000,Kolkata Knight Riders,2017.0,Indian,25.0,IND,0,0,0,1,0,0,0,0,0,160
+Shadab Jakati,Bowler,2000000,Royal Challengers Bangalore,2014.0,Indian,34.0,IND,1,0,0,0,0,0,0,0,0,161
+Shahbaz Nadeem,Bowler,8500000,Delhi Daredevils,2014.0,Indian,25.0,IND,1,0,0,0,0,0,0,0,0,162
+Shahbaz Nadeem,Bowler,32000000,Delhi Daredevils,2018.0,Indian,29.0,IND,0,0,0,0,1,0,0,0,0,162
+Shahbaz Nadeem,Bowler,5000000,Lucknow Super Giants,2022.0,Indian,33.0,IND,0,0,0,0,0,0,0,0,1,162
+Shahrukh Khan,All-Rounder,52500000,Punjab Kings,2021.0,Indian,26.0,IND,0,0,0,0,0,0,0,1,0,163
+Shahrukh Khan,All-Rounder,90000000,Punjab Kings,2022.0,Indian,27.0,IND,0,0,0,0,0,0,0,0,1,163
+Sharad Lumba,Batsman,2000000,Mumbai Indians,2018.0,Indian,29.0,IND,0,0,0,0,1,0,0,0,0,164
+Shardul Thakur,Bowler,2000000,Kings XI Punjab,2014.0,Indian,23.0,IND,1,0,0,0,0,0,0,0,0,165
+Shardul Thakur,Bowler,26000000,Chennai Super Kings,2018.0,Indian,27.0,IND,0,0,0,0,1,0,0,0,0,165
+Shardul Thakur,Bowler,107500000,Delhi Capitals,2022.0,Indian,31.0,IND,0,0,0,0,0,0,0,0,1,165
+Shashank Singh,All-Rounder,1000000,Delhi Daredevils,2017.0,Indian,26.0,IND,0,0,0,1,0,0,0,0,0,166
+Shashank Singh,All-Rounder,3000000,Rajasthan Royals,2019.0,Indian,28.0,IND,0,0,0,0,0,1,0,0,0,166
+Shashank Singh,All-Rounder,2000000,Sunrisers Hyderabad,2022.0,Indian,31.0,IND,0,0,0,0,0,0,0,0,1,166
+Shelley Shaurya,Bowler,1000000,Gujarat Lions,2017.0,Indian,24.0,IND,0,0,0,1,0,0,0,0,0,167
+Shikhar Dhawan,Batsman,52000000,Sunrisers Hyderabad,2018.0,Indian,33.0,IND,0,0,0,0,1,0,0,0,0,168
+Shikhar Dhawan,Batsman,82500000,Punjab Kings,2022.0,Indian,37.0,IND,0,0,0,0,0,0,0,0,1,168
+Shivam Dube,All-Rounder,50000000,Royal Challengers Bangalore,2019.0,Indian,26.0,IND,0,0,0,0,0,1,0,0,0,169
+Shivam Dube,All-Rounder,44000000,Rajasthan Royals,2021.0,Indian,28.0,IND,0,0,0,0,0,0,0,1,0,169
+Shivam Dube,All-Rounder,40000000,Chennai Super Kings,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,169
+Shivam Mavi,All-Rounder,30000000,Kolkata Knight Riders,2018.0,Indian,20.0,IND,0,0,0,0,1,0,0,0,0,170
+Shivam Mavi,All-Rounder,72500000,Kolkata Knight Riders,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,170
+Shivam Sharma,Bowler,1000000,Kings XI Punjab,2014.0,Indian,21.0,IND,1,0,0,0,0,0,0,0,0,171
+Shivil Kaushik,Bowler,1000000,Gujarat Lions,2016.0,Indian,21.0,IND,0,0,1,0,0,0,0,0,0,172
+Shreevats Goswami,Wicket Keeper,10000000,Sunrisers Hyderabad,2018.0,Indian,29.0,IND,0,0,0,0,1,0,0,0,0,173
+Shreyas Gopal,Bowler,1000000,Mumbai Indians,2014.0,Indian,21.0,IND,1,0,0,0,0,0,0,0,0,174
+Shreyas Gopal,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,25.0,IND,0,0,0,0,1,0,0,0,0,174
+Shreyas Gopal,Bowler,7500000,Sunrisers Hyderabad,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,174
+Shreyas Iyer,Batsman,26000000,Delhi Daredevils,2015.0,Indian,21.0,IND,0,1,0,0,0,0,0,0,0,175
+Shreyas Iyer,Batsman,122500000,Kolkata Knight Riders,2022.0,Indian,28.0,IND,0,0,0,0,0,0,0,0,1,175
+Shubham Ranjane,All-Rounder,2000000,Rajasthan Royals,2019.0,Indian,25.0,IND,0,0,0,0,0,1,0,0,0,176
+Shubman Gill,Batsman,18000000,Kolkata Knight Riders,2018.0,Indian,19.0,IND,0,0,0,0,1,0,0,0,0,177
+Siddarth Kaul,Bowler,4500000,Delhi Daredevils,2014.0,Indian,24.0,IND,1,0,0,0,0,0,0,0,0,178
+Siddarth Kaul,Bowler,1000000,Sunrisers Hyderabad,2015.0,Indian,25.0,IND,0,1,0,0,0,0,0,0,0,178
+Simarjeet Singh,Bowler,2000000,Chennai Super Kings,2022.0,Indian,24.0,IND,0,0,0,0,0,0,0,0,1,179
+Stuart Binny,All-Rounder,20000000,Royal Challengers Bangalore,2016.0,Indian,32.0,IND,0,0,1,0,0,0,0,0,0,180
+Stuart Binny,All-Rounder,5000000,Rajasthan Royals,2018.0,Indian,34.0,IND,0,0,0,0,1,0,0,0,0,180
+Suryakumar Yadav,Batsman,7000000,Kolkata Knight Riders,2014.0,Indian,24.0,IND,1,0,0,0,0,0,0,0,0,181
+Suyash Prabhudessai,All-Rounder,3000000,Royal Challengers Bangalore,2022.0,Indian,25.0,IND,0,0,0,0,0,0,0,0,1,182
+T Natarajan,Bowler,30000000,Kings XI Punjab,2017.0,Indian,26.0,IND,0,0,0,1,0,0,0,0,0,183
+Tajinder Dhillon,All-Rounder,5500000,Mumbai Indians,2018.0,Indian,26.0,IND,0,0,0,0,1,0,0,0,0,184
+Tajinder Dhillon,All-Rounder,2000000,Kings XI Punjab,2020.0,Indian,28.0,IND,0,0,0,0,0,0,1,0,0,184
+Tanmay Agarwal,Batsman,1000000,Sunrisers Hyderabad,2017.0,Indian,22.0,IND,0,0,0,1,0,0,0,0,0,185
+Tanmay Agarwal,Batsman,2000000,Sunrisers Hyderabad,2018.0,Indian,23.0,IND,0,0,0,0,1,0,0,0,0,185
+Tushar Deshpande,Bowler,2000000,Delhi Capitals,2020.0,Indian,25.0,IND,0,0,0,0,0,0,1,0,0,186
+Tushar Deshpande,Bowler,2000000,Chennai Super Kings,2022.0,Indian,27.0,IND,0,0,0,0,0,0,0,0,1,186
+Umang Sharma,Batsman,1000000,Gujarat Lions,2016.0,Indian,27.0,IND,0,0,1,0,0,0,0,0,0,187
+Umesh Yadav,Bowler,26000000,Kolkata Knight Riders,2014.0,Indian,27.0,IND,1,0,0,0,0,0,0,0,0,188
+Umesh Yadav,Bowler,42000000,Royal Challengers Bangalore,2018.0,Indian,31.0,IND,0,0,0,0,1,0,0,0,0,188
+Umesh Yadav,Bowler,10000000,Delhi Capitals,2021.0,Indian,34.0,IND,0,0,0,0,0,0,0,1,0,188
+Umesh Yadav,Bowler,20000000,Kolkata Knight Riders,2022.0,Indian,35.0,IND,0,0,0,0,0,0,0,0,1,188
+Unmukt Chand,Batsman,6500000,Rajasthan Royals,2014.0,Indian,21.0,IND,1,0,0,0,0,0,0,0,0,189
+Utkarsh Singh,All-Rounder,2000000,Punjab Kings,2021.0,Indian,23.0,IND,0,0,0,0,0,0,0,1,0,190
+Vaibhav Arora,Bowler,2000000,Kolkata Knight Riders,2021.0,Indian,24.0,IND,0,0,0,0,0,0,0,1,0,191
+Varun Aaron,Bowler,20000000,Royal Challengers Bangalore,2014.0,Indian,25.0,IND,1,0,0,0,0,0,0,0,0,192
+Varun Aaron,Bowler,28000000,Kings XI Punjab,2017.0,Indian,28.0,IND,0,0,0,1,0,0,0,0,0,192
+Varun Aaron,Bowler,24000000,Rajasthan Royals,2019.0,Indian,30.0,IND,0,0,0,0,0,1,0,0,0,192
+Veer Pratap Singh,Bowler,4000000,Kolkata Knight Riders,2014.0,Indian,22.0,IND,1,0,0,0,0,0,0,0,0,193
+Vijay Shankar,All-Rounder,1000000,Chennai Super Kings,2014.0,Indian,23.0,IND,1,0,0,0,0,0,0,0,0,194
+Vijay Shankar,All-Rounder,3500000,Sunrisers Hyderabad,2016.0,Indian,25.0,IND,0,0,1,0,0,0,0,0,0,194
+Vijay Shankar,All-Rounder,32000000,Delhi Daredevils,2018.0,Indian,27.0,IND,0,0,0,0,1,0,0,0,0,194
+Vijay Shankar,All-Rounder,14000000,Gujarat Titans,2022.0,Indian,31.0,IND,0,0,0,0,0,0,0,0,1,194
+Vijay Zol,Batsman,3000000,Royal Challengers Bangalore,2014.0,Indian,20.0,IND,1,0,0,0,0,0,0,0,0,195
+Vishnu Vinod,Wicket Keeper,2000000,Delhi Capitals,2021.0,Indian,28.0,IND,0,0,0,0,0,0,0,1,0,196
+Vishnu Vinod,Wicket Keeper,5000000,Sunrisers Hyderabad,2022.0,Indian,29.0,IND,0,0,0,0,0,0,0,0,1,196
+Washington Sundar,All-Rounder,87500000,Sunrisers Hyderabad,2022.0,Indian,23.0,IND,0,0,0,0,0,0,0,0,1,197
+Wriddhiman Saha,Wicket Keeper,22000000,Kings XI Punjab,2014.0,Indian,30.0,IND,1,0,0,0,0,0,0,0,0,198
+Wriddhiman Saha,Wicket Keeper,50000000,Sunrisers Hyderabad,2018.0,Indian,34.0,IND,0,0,0,0,1,0,0,0,0,198
+Wriddhiman Saha,Wicket Keeper,12000000,Sunrisers Hyderabad,2019.0,Indian,35.0,IND,0,0,0,0,0,1,0,0,0,198
+Wriddhiman Saha,Wicket Keeper,19000000,Gujarat Titans,2022.0,Indian,38.0,IND,0,0,0,0,0,0,0,0,1,198
+Writtick Chatterjee,All-Rounder,2000000,Punjab Kings,2022.0,Indian,30.0,IND,0,0,0,0,0,0,0,0,1,199
+Yogesh Takawale,Wicket Keeper,1000000,Royal Challengers Bangalore,2014.0,Indian,30.0,IND,1,0,0,0,0,0,0,0,0,200
+Yudhvir Charak,All-Rounder,2000000,Mumbai Indians,2021.0,Indian,24.0,IND,0,0,0,0,0,0,0,1,0,201
+Yusuf Pathan,All-Rounder,32500000,Kolkata Knight Riders,2014.0,Indian,32.0,IND,1,0,0,0,0,0,0,0,0,202
+Yusuf Pathan,All-Rounder,19000000,Sunrisers Hyderabad,2018.0,Indian,36.0,IND,0,0,0,0,1,0,0,0,0,202
